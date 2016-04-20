@@ -6,7 +6,6 @@
  */
 
 require( ABSPATH . WPINC . '/option.php' );
-require( ABSPATH . WPINC . '/plugin.php' );
 
 /**
  * Convert given date string into a different format.
@@ -5172,12 +5171,3 @@ function mysql_to_rfc3339( $date_string ) {
 	// Strip timezone information
 	return preg_replace( '/(?:Z|[+-]\d{2}(?::\d{2})?)$/', '', $formatted );
 }
-
-/**
- * Added to resolve gravatar.com blocked problem
- * */
-function get_ssl_avatar($avatar){
-	$avatar = preg_replace('/.*\/avatar\/(.*)\?s=([\d]+)&.*/','<img src="https://secure.gravatar.com/avatar/$1?s=$2" class="avatar avatar-$2" height="$2" width="$2">',$avatar);
-	return $avatar;
-}
-add_filter('get_avatar','get_ssl_avatar');
