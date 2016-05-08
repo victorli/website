@@ -951,7 +951,7 @@ class RevSliderYoutube {
 	 */
 	public function get_playlists(){
 		//call the API and decode the response
-		$url = "https://www.googleapis.com/youtube/v3/playlists?part=snippet&maxResults=50&channelId=".$this->channel_id."&key=".$this->api_key;
+		$url = "https://www.useso.com/youtube/v3/playlists?part=snippet&maxResults=50&channelId=".$this->channel_id."&key=".$this->api_key;
 		$rsp = json_decode(wp_remote_fopen($url));
 		if(isset($rsp->items)){
 			return $rsp->items;
@@ -970,7 +970,7 @@ class RevSliderYoutube {
 	public function show_playlist_videos($playlist_id,$count=50){
 		//call the API and decode the response
     if(empty($count)) $count = 50;
-		$url = "https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&playlistId=".$playlist_id."&maxResults=".$count."&fields=items%2Fsnippet&key=".$this->api_key;
+		$url = "https://www.useso.com/youtube/v3/playlistItems?part=snippet&playlistId=".$playlist_id."&maxResults=".$count."&fields=items%2Fsnippet&key=".$this->api_key;
 		
 		$transient_name = 'revslider_' . md5($url);
 
@@ -992,7 +992,7 @@ class RevSliderYoutube {
 	public function show_channel_videos($count=50){
     if(empty($count)) $count = 50;
 		//call the API and decode the response
-		$url = "https://www.googleapis.com/youtube/v3/search?part=snippet&channelId=".$this->channel_id."&maxResults=".$count."&key=".$this->api_key."&order=date";
+		$url = "https://www.useso.com/youtube/v3/search?part=snippet&channelId=".$this->channel_id."&maxResults=".$count."&key=".$this->api_key."&order=date";
 		
 		$transient_name = 'revslider_' . md5($url);
 		

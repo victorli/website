@@ -2243,7 +2243,7 @@ var UniteLayersRev = new function(){
 					font = font.replace(/\ /g,'+');
 					
 					if(jQuery('.rev-css-'+fontclass).length == 0){
-						//jQuery('head').append('<link class="rev-css-'+fontclass+'" href="//fonts.googleapis.com/css?family='+font+':'+gstring+'" rel="stylesheet" type="text/css">');
+						//jQuery('head').append('<link class="rev-css-'+fontclass+'" href="//fonts.useso.com/css?family='+font+':'+gstring+'" rel="stylesheet" type="text/css">');
 						gfamilies.push(font+":"+gstring);
 						jQuery('body').append('<div style="display:none" class="rev-css-'+fontclass+'">RevSliderFont</div>');
 						

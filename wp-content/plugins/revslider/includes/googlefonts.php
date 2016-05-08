@@ -10,7 +10,7 @@
 if( !defined( 'ABSPATH') ) exit();
 
 /**
-*** CREATED WITH SCRIPT SNIPPET AND DATA TAKEN FROM https://www.googleapis.com/webfonts/v1/webfonts?sort=alpha&fields=items(family%2Csubsets%2Cvariants)&key={YOUR_API_KEY}
+*** CREATED WITH SCRIPT SNIPPET AND DATA TAKEN FROM https://www.useso.com/webfonts/v1/webfonts?sort=alpha&fields=items(family%2Csubsets%2Cvariants)&key={YOUR_API_KEY}
 foreach($list as $l){
 	echo "'".$l['family'] ."' => array("."\n";
 	echo "'variants' => array(";

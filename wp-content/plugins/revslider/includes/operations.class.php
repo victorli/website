@@ -1273,7 +1273,7 @@ class RevSliderOperations extends RevSliderElementsBase{
 					if($set_diff_font !== ''){
 						$font_url = $set_diff_font;
 					}else{
-						$font_url = $http.'://fonts.googleapis.com/css?family=';
+						$font_url = $http.'://fonts.useso.com/css?family=';
 					}
 
 					$custom_css = RevSliderOperations::getStaticCss();
@@ -1388,7 +1388,7 @@ class RevSliderOperations extends RevSliderElementsBase{
 		if($set_diff_font !== ''){
 			$font_url = $set_diff_font;
 		}else{
-			$font_url = $http.'://fonts.googleapis.com/css?family=';
+			$font_url = $http.'://fonts.useso.com/css?family=';
 		}
 
 		$static_css = RevSliderOperations::getStaticCss();
@@ -1455,7 +1455,7 @@ class RevSliderOperations extends RevSliderElementsBase{
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 
 		<!-- LOAD JQUERY LIBRARY -->
-		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.js"></script>
+		<script type="text/javascript" src="http://ajax.useso.com/ajax/libs/jquery/1.11.1/jquery.js"></script>
 		
 		<!-- LOADING FONTS AND ICONS -->
 		<?php echo $fonts; ?>
@@ -1876,7 +1876,7 @@ ob_end_clean();
 		if($class !== '') $class = ' class="'.$class.'"';
 		
 		if(strpos($font, "href=") === false){ //fallback for old versions
-			$url = RevSliderFront::modify_punch_url($setBase . 'fonts.googleapis.com/css?family=');
+			$url = RevSliderFront::modify_punch_url($setBase . 'fonts.useso.com/css?family=');
 			return '<link href="'.$url.$font.'"'.$class.' rel="stylesheet" property="stylesheet" type="text/css" media="all" />'; //id="rev-google-font"
 		}else{
 			$font = str_replace(array('http://', 'https://'), array($setBase, $setBase), $font);
@@ -2757,7 +2757,7 @@ ob_end_clean();
 		if($set_diff_font !== ''){
 			$font_url = $set_diff_font;
 		}else{
-			$font_url = $http.'://fonts.googleapis.com/css?family=';
+			$font_url = $http.'://fonts.useso.com/css?family=';
 		}
 		
 		$my_fonts = $slider->getParam('google_font', array());

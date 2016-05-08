@@ -153,7 +153,7 @@ $force_activation_box = RevSliderBase::getVar($arrValues, 'force_activation_box'
 						<td>
 							<input id="change_font_loading" name="change_font_loading" type="text" class="regular-text" value="<?php echo $change_font_loading; ?>">
 							<div class="description_container">
-								<span class="description"><?php _e("Insert something in it and it will be used instead of http://fonts.googleapis.com/css?family= (For example: http://fonts.useso.com/css?family= which will also work for chinese visitors)",'revslider'); ?></span>				
+								<span class="description"><?php _e("Insert something in it and it will be used instead of http://fonts.useso.com/css?family= (For example: http://fonts.useso.com/css?family= which will also work for chinese visitors)",'revslider'); ?></span>				
 							</div>
 						</td>
 					</tr>
