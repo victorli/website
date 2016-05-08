@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: Revolution Slider\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: Mon Jul 13 2015 10:02:33 GMT+0200 (CEST)\n"
-"PO-Revision-Date: Tue Jul 14 2015 08:40:14 GMT+0200 (CEST)\n"
-"Last-Translator: admin <info@themepunch.com>\n"
+"PO-Revision-Date: Sun May 08 2016 19:12:13 GMT+0800\n"
+"Last-Translator: admin <zs.li@blx90.com>\n"
 "Language-Team: \n"
 "Language: Chinese (China)\n"
 "Plural-Forms: nplurals=1; plural=0\n"
@@ -28,266 +28,254 @@ msgstr ""
 
 #: ../revslider.php:170
 msgid "Include RevSlider libraries globally (all pages/posts)"
-msgstr ""
+msgstr "在所有页面加载RevSlider库"
 
 #: ../revslider.php:171
 msgid "Pages to include RevSlider libraries"
-msgstr ""
+msgstr "需要加载RevSlider库的页面"
 
 #: ../revslider.php:172
 msgid ""
 "If you want to use the PHP function \"putRevSlider\" in your code please make "
 "sure to check \" "
-msgstr ""
+msgstr "如果希望使用PHP函数“putRevSlider”，请检查“"
 
 #: ../revslider.php:172
 msgid ""
 " \" in the backend's \"General Settings\" (top right panel). <br> <br> Or add "
 "the current page to the \""
-msgstr ""
+msgstr "“在后台的‘通用设置’（右上面板），<br><br> 或添加当前页面到”"
 
 #: ../revslider.php:172
 msgid "\" option box."
-msgstr ""
+msgstr "“选项框。"
 
 #: ../revslider.php:212
 msgid "Revolution Slider Error:"
-msgstr ""
+msgstr "RevSlider错误："
 
 #: ../admin/revslider-admin.class.php:62 ../admin/views/navigation-editor.php:28
 msgid "Navigation Editor"
-msgstr ""
+msgstr "导航编辑器"
 
 #: ../admin/revslider-admin.class.php:188
 msgid "-- wrong alias -- "
-msgstr ""
+msgstr "--错误的别名--"
 
 #: ../admin/revslider-admin.class.php:189
 msgid "Navigation Bullets and Arrows are now set to none."
-msgstr ""
+msgstr "导航的箭头等设置为空。"
 
 #: ../admin/revslider-admin.class.php:190
 msgid "Create Template"
-msgstr ""
+msgstr "创建模板"
 
 #: ../admin/revslider-admin.class.php:191
 msgid "Do you really want to delete"
-msgstr ""
+msgstr "确认要删除"
 
 #: ../admin/revslider-admin.class.php:192
 msgid "Are you sure to replace the urls?"
-msgstr ""
+msgstr "确认要替换当前URL吗？"
 
 #: ../admin/revslider-admin.class.php:193
 msgid ""
 "Set selected settings on all Slides of this Slider? (This will be saved "
 "immediately)"
-msgstr ""
+msgstr "在当前幻灯片中的所有幻灯页面中应用选择的设置？"
 
 #: ../admin/revslider-admin.class.php:194 ../admin/views/slide-overview.php:174
 msgid "Select Slide Image"
-msgstr ""
+msgstr "选择幻灯图片"
 
 #: ../admin/revslider-admin.class.php:195
 msgid "Select Slide Video"
-msgstr ""
+msgstr "选择幻灯视频"
 
 #: ../admin/revslider-admin.class.php:196
 msgid "Show Slide Options"
-msgstr ""
+msgstr "显示幻灯选项"
 
 #: ../admin/revslider-admin.class.php:197
 msgid "Hide Slide Options"
-msgstr ""
-
-#: ../admin/revslider-admin.class.php:198 ../admin/views/slide-overview.php:168 ..
-#: admin/views/system/dialog-copy-move.php:3 ../admin/views/templates/slider-
-#: main-options.php:1309 ../admin/views/templates/slider-main-options.php:4280 ..
-#: admin/views/templates/slides.php:21 ../admin/views/templates/slides.php:43
-msgid "Close"
-msgstr "关闭"
+msgstr "隐藏幻灯选项"
 
 #: ../admin/revslider-admin.class.php:199
 msgid "Really update global styles?"
-msgstr ""
+msgstr "真的要更新全局风格吗？"
 
 #: ../admin/revslider-admin.class.php:200
 msgid "Global Styles Editor"
-msgstr ""
+msgstr "全局风格编辑器"
 
 #: ../admin/revslider-admin.class.php:201 ../admin/revslider-admin.class.php:239 .
 #: ./admin/views/templates/slider-main-options.php:4301
 msgid "Select Image"
-msgstr ""
+msgstr "选择图片"
 
 #: ../admin/revslider-admin.class.php:202
 msgid "Video Not Found!"
-msgstr ""
+msgstr "没有找到视频"
 
 #: ../admin/revslider-admin.class.php:203
 msgid "Handle has to be at least three character long"
-msgstr ""
+msgstr "至少需要3个字符长"
 
 #: ../admin/revslider-admin.class.php:204
 msgid "Really change font settings?"
-msgstr ""
+msgstr "确认修改字体设置吗？"
 
 #: ../admin/revslider-admin.class.php:205
 msgid "Really delete font?"
-msgstr ""
+msgstr "真的要删除字体吗？"
 
 #: ../admin/revslider-admin.class.php:206
 msgid "Class already exists, overwrite?"
-msgstr ""
+msgstr "Class已经存在，是否覆盖？"
 
 #: ../admin/revslider-admin.class.php:207
 msgid "Class must be a valid CSS class name"
-msgstr ""
+msgstr "Class必须是有效的CSS类名"
 
 #: ../admin/revslider-admin.class.php:208
 msgid "Really overwrite Class?"
-msgstr ""
+msgstr "确定要覆盖Class?"
 
 #: ../admin/revslider-admin.class.php:209
 msgid "Really delete Class"
-msgstr ""
+msgstr "真的删除Class"
 
 #: ../admin/revslider-admin.class.php:210
 msgid "? This can't be undone!"
-msgstr ""
+msgstr "?将不能恢复！"
 
 #: ../admin/revslider-admin.class.php:211
 msgid "This class does not exist."
-msgstr ""
+msgstr "class不存在。"
 
 #: ../admin/revslider-admin.class.php:212
 msgid ""
 "Making changes to these settings will probably overwrite advanced settings. "
 "Continue?"
-msgstr ""
+msgstr "修改这些设置可能会覆盖高级设置，继续吗？"
 
 #: ../admin/revslider-admin.class.php:213
 msgid "Select Static Layer Image"
-msgstr ""
+msgstr "选择静态层图片"
 
 #: ../admin/revslider-admin.class.php:214
 msgid "Select Layer Image"
-msgstr ""
+msgstr "选择层图片"
 
 #: ../admin/revslider-admin.class.php:215
 msgid "Do you really want to delete all the layers?"
-msgstr ""
+msgstr "确认要删除所有层吗？"
 
 #: ../admin/revslider-admin.class.php:216
 msgid "Layer Animation Editor"
-msgstr ""
+msgstr "层动画编辑器"
 
 #: ../admin/revslider-admin.class.php:217
 msgid "Animation already exists, overwrite?"
-msgstr ""
+msgstr "动画已经存在，是否覆盖？"
 
 #: ../admin/revslider-admin.class.php:218
 msgid "Really overwrite animation?"
-msgstr ""
+msgstr "真的要覆盖动画吗？"
 
 #: ../admin/revslider-admin.class.php:219
 msgid "Default animations can't be deleted"
-msgstr ""
+msgstr "默认动画不能被删除"
 
 #: ../admin/revslider-admin.class.php:220
 msgid "Must be greater than start time"
-msgstr ""
+msgstr "必须比较开始时间大"
 
 #: ../admin/revslider-admin.class.php:221
 msgid "Selected layer not set"
-msgstr ""
+msgstr "所选择的层没有设置"
 
 #: ../admin/revslider-admin.class.php:222
 msgid "Edit Layer Start"
-msgstr ""
+msgstr "编辑层起始"
 
 #: ../admin/revslider-admin.class.php:223
 msgid "Edit Layer End"
-msgstr ""
+msgstr "编辑层结束"
 
 #: ../admin/revslider-admin.class.php:224
 msgid "Default Animations can't be renamed"
-msgstr ""
+msgstr "默认动画不能重命名"
 
 #: ../admin/revslider-admin.class.php:225
 msgid "Animationname already existing"
-msgstr ""
+msgstr "动画名称已经存在"
 
 #: ../admin/revslider-admin.class.php:226
 msgid "CSS classname already existing"
-msgstr ""
+msgstr "CSS类名已经存在"
 
 #: ../admin/revslider-admin.class.php:227
 msgid "Original CSS classname not found"
-msgstr ""
+msgstr "原始CSS类名未找到"
 
 #: ../admin/revslider-admin.class.php:228
 msgid "Enter a correct class name"
-msgstr ""
+msgstr "请输入正确类名"
 
 #: ../admin/revslider-admin.class.php:229
 msgid "Class not found in database"
-msgstr ""
+msgstr "没有在数据库中找到此类"
 
 #: ../admin/revslider-admin.class.php:230
 msgid "CSS classname not found"
-msgstr ""
+msgstr "CSS类名没有找到"
 
 #: ../admin/revslider-admin.class.php:231
 msgid "Delete this caption? This may affect other Slider"
-msgstr ""
+msgstr "删除此标题？这将影响其它幻灯片"
 
 #: ../admin/revslider-admin.class.php:232
 msgid ""
 "This will update the Class with the current set Style settings, this may "
 "affect other Sliders. Proceed?"
-msgstr ""
+msgstr "更新当前风格设置的CLASS，会影响其它幻灯片，继续？"
 
 #: ../admin/revslider-admin.class.php:233
 msgid "Template will have the state of the last save, proceed?"
-msgstr ""
+msgstr "模板会具体最后被保存的状态，继续？"
 
 #: ../admin/revslider-admin.class.php:234
 msgid "Please enter a Slide title"
-msgstr ""
+msgstr "请输入幻灯标题"
 
 #: ../admin/revslider-admin.class.php:235
 msgid "Please Wait a Moment"
-msgstr ""
+msgstr "稍等"
 
 #: ../admin/revslider-admin.class.php:236 ../admin/views/templates/slide-selector.
 #: php:192 ../admin/views/templates/slides-list.php:146
 msgid "Copy / Move"
-msgstr ""
+msgstr "复制/移动"
 
 #: ../admin/revslider-admin.class.php:237
 msgid "Preset Loaded"
-msgstr ""
+msgstr "预设置加载"
 
 #: ../admin/revslider-admin.class.php:238 ../admin/views/templates/slide-selector.
 #: php:218
 msgid "Add Bulk Slides"
-msgstr ""
+msgstr "新增一组幻灯"
 
 #: ../admin/revslider-admin.class.php:240 ../admin/views/navigation-editor.php:38
 #: ../admin/views/templates/slider-main-options.php:2310
 msgid "Arrows"
-msgstr ""
+msgstr "箭头"
 
 #: ../admin/revslider-admin.class.php:241 ../admin/views/navigation-editor.php:39
 #: ../admin/views/templates/slider-main-options.php:2311
 msgid "Bullets"
-msgstr ""
-
-#: ../admin/revslider-admin.class.php:242 ../admin/views/templates/slider-main-
-#: options.php:2588
-msgid "Thumbnails"
-msgstr "缩略图"
+msgstr "子弹"
 
 #: ../admin/revslider-admin.class.php:243 ../admin/views/navigation-editor.php:41
 #: ../admin/views/templates/slider-main-options.php:2312 ..
@@ -297,125 +285,125 @@ msgstr ""
 
 #: ../admin/revslider-admin.class.php:244
 msgid "Delete this Navigation?"
-msgstr ""
+msgstr "删除此导航？"
 
 #: ../admin/revslider-admin.class.php:245
 msgid "Navigation name could not be updated"
-msgstr ""
+msgstr "导航名不能被更新"
 
 #: ../admin/revslider-admin.class.php:246
 msgid "Name too short, at least 3 letters between a-zA-z needed"
-msgstr ""
+msgstr "名称太短，至少3个字符"
 
 #: ../admin/revslider-admin.class.php:247
 msgid "Navigation name already exists, please choose a different name"
-msgstr ""
+msgstr "导航名已经存在，请选择其它名称"
 
 #: ../admin/revslider-admin.class.php:248
 msgid "Remove current element from Navigation?"
-msgstr ""
+msgstr "从导航中删除当前元素？"
 
 #: ../admin/revslider-admin.class.php:249
 msgid "This navigation element does not exist, create one?"
-msgstr ""
+msgstr "导航元素不存在，创建一个？"
 
 #: ../admin/revslider-admin.class.php:250
 msgid "Overwrite current animation?"
-msgstr ""
+msgstr "覆盖当前动画？"
 
 #: ../admin/revslider-admin.class.php:251
 msgid "Default animations can't be changed"
-msgstr ""
+msgstr "默认动画不能修改"
 
 #: ../admin/revslider-admin.class.php:252
 msgid "Animation already existing with given handle, please choose a different name."
-msgstr ""
+msgstr "动画已经存在，请选择不同的名称"
 
 #: ../admin/revslider-admin.class.php:253
 msgid "Really delete animation:"
-msgstr ""
+msgstr "真的删除动画："
 
 #: ../admin/revslider-admin.class.php:254
 msgid "This will reset the navigation, continue?"
-msgstr ""
+msgstr "这将重置导航，继续？"
 
 #: ../admin/revslider-admin.class.php:255
 msgid "Preset name already exists, please choose a different name"
-msgstr ""
+msgstr "预置名已存在，请选择不同名称"
 
 #: ../admin/revslider-admin.class.php:256
 msgid "Really delete this preset?"
-msgstr ""
+msgstr "确认删除此预置？"
 
 #: ../admin/revslider-admin.class.php:257
 msgid "Maybe wrong YoutTube ID given"
-msgstr ""
+msgstr "YouTube ID可能有误误"
 
 #: ../admin/revslider-admin.class.php:258
 msgid "Preset not found"
-msgstr ""
+msgstr "预置没找到"
 
 #: ../admin/revslider-admin.class.php:259
 msgid "Cover Image need to be set for videos"
-msgstr ""
+msgstr "视频需要设置封面图片"
 
 #: ../admin/revslider-admin.class.php:260
 msgid "Really remove this action?"
-msgstr ""
+msgstr "确认删除此动作？"
 
 #: ../admin/revslider-admin.class.php:261
 msgid "Layer is triggered by "
-msgstr ""
+msgstr "层的触发是通过"
 
 #: ../admin/revslider-admin.class.php:262
 msgid " due to action: "
-msgstr ""
+msgstr "由于动作："
 
 #: ../admin/revslider-admin.class.php:263
 msgid "layer:"
-msgstr ""
+msgstr "层："
 
 #: ../admin/revslider-admin.class.php:264
 msgid "Start Layer \"in\" animation"
-msgstr ""
+msgstr "在动画中启动层"
 
 #: ../admin/revslider-admin.class.php:265
 msgid "Start Layer \"out\" animation"
-msgstr ""
+msgstr "在动画外启动层"
 
 #: ../admin/revslider-admin.class.php:266 ../admin/views/templates/slide-stage.
 #: php:2257
 msgid "Start Video"
-msgstr ""
+msgstr "开始视频"
 
 #: ../admin/revslider-admin.class.php:267 ../admin/views/templates/slide-stage.
 #: php:2258
 msgid "Stop Video"
-msgstr ""
+msgstr "结束视频"
 
 #: ../admin/revslider-admin.class.php:268 ../admin/views/templates/slide-stage.
 #: php:2256
 msgid "Toggle Layer Animation"
-msgstr ""
+msgstr "开关层动画"
 
 #: ../admin/revslider-admin.class.php:269 ../admin/views/templates/slide-stage.
 #: php:2259
 msgid "Toggle Video"
-msgstr ""
+msgstr "开关视频"
 
 #: ../admin/revslider-admin.class.php:270 ../admin/views/templates/slider-main-
 #: options.php:3661
 msgid "Last Slide"
-msgstr ""
+msgstr "上一幻灯片"
 
 #: ../admin/revslider-admin.class.php:271 ../admin/views/templates/slide-stage.
 #: php:2260
 msgid "Simulate Click"
-msgstr ""
+msgstr "模拟点击率"
 
 #: ../admin/revslider-admin.class.php:272
 msgid "Toogle Class"
-msgstr ""
+msgstr "Toggle Class"
 
 #: ../admin/revslider-admin.class.php:273
 msgid "Copy hover styles to idle?"
@@ -514,10 +502,6 @@ msgstr ""
 msgid "Slider created"
 msgstr ""
 
-#: ../admin/revslider-admin.class.php:726
-msgid "Slider updated"
-msgstr "幻灯片已更新"
-
 #: ../admin/revslider-admin.class.php:735
 msgid "Template can't be deleted, it is still being used by the following Sliders: "
 msgstr ""
@@ -529,10 +513,6 @@ msgstr ""
 #: ../admin/revslider-admin.class.php:748 ../admin/revslider-admin.class.php:823
 msgid "Success! Refreshing page..."
 msgstr ""
-
-#: ../admin/revslider-admin.class.php:756
-msgid "Slide Created"
-msgstr "幻灯片已创建"
 
 #: ../admin/revslider-admin.class.php:758
 msgid "Slides Created"
@@ -549,10 +529,6 @@ msgstr ""
 #: ../admin/revslider-admin.class.php:781
 msgid "Slide copied to current Slider, redirecting..."
 msgstr ""
-
-#: ../admin/revslider-admin.class.php:787
-msgid "Slide updated"
-msgstr "幻灯片已更新"
 
 #: ../admin/revslider-admin.class.php:791
 msgid "Static Global Layers updated"
@@ -790,11 +766,6 @@ msgstr ""
 msgid "Thumbs"
 msgstr ""
 
-#: ../admin/views/navigation-editor.php:42 ../admin/views/navigation-editor.php:
-#: 67 ../admin/views/templates/slide-stage.php:34
-msgid "Actions"
-msgstr "操作"
-
 #: ../admin/views/navigation-editor.php:58
 msgid "Editing"
 msgstr ""
@@ -817,11 +788,6 @@ msgstr ""
 #: ../admin/views/navigation-editor.php:73
 msgid "Parameters"
 msgstr ""
-
-#: ../admin/views/navigation-editor.php:75 ../admin/views/templates/slide-general-
-#: settings.php:476
-msgid "Slide Title"
-msgstr "幻灯片的标题"
 
 #: ../admin/views/navigation-editor.php:76
 msgid "Slide Description"
@@ -878,48 +844,6 @@ msgstr ""
 #: stage.php:2070 ../admin/views/templates/slide-stage.php:2136
 msgid "Border"
 msgstr ""
-
-#: ../admin/views/navigation-editor.php:125 ../admin/views/templates/slider-main-
-#: options.php:1965 ../admin/views/templates/slider-main-options.php:2397 ..
-#: admin/views/templates/slider-main-options.php:2427 ..
-#: admin/views/templates/slider-main-options.php:2540 ..
-#: admin/views/templates/slider-main-options.php:2710 ..
-#: admin/views/templates/slider-main-options.php:2878 ..
-#: admin/views/templates/slider-main-options.php:3213
-msgid "Top"
-msgstr "顶部"
-
-#: ../admin/views/navigation-editor.php:127 ../admin/views/templates/slide-stage.
-#: php:282 ../admin/views/templates/slider-main-options.php:2175 ..
-#: admin/views/templates/slider-main-options.php:2390 ..
-#: admin/views/templates/slider-main-options.php:2419 ..
-#: admin/views/templates/slider-main-options.php:2534 ..
-#: admin/views/templates/slider-main-options.php:2704 ..
-#: admin/views/templates/slider-main-options.php:2872 ..
-#: admin/views/templates/slider-main-options.php:3207
-msgid "Right"
-msgstr "右边"
-
-#: ../admin/views/navigation-editor.php:129 ../admin/views/templates/slider-main-
-#: options.php:1966 ../admin/views/templates/slider-main-options.php:2399 ..
-#: admin/views/templates/slider-main-options.php:2429 ..
-#: admin/views/templates/slider-main-options.php:2542 ..
-#: admin/views/templates/slider-main-options.php:2712 ..
-#: admin/views/templates/slider-main-options.php:2880 ..
-#: admin/views/templates/slider-main-options.php:3215
-msgid "Bottom"
-msgstr "下部"
-
-#: ../admin/views/navigation-editor.php:131 ../admin/views/templates/slide-stage.
-#: php:280 ../admin/views/templates/slider-main-options.php:2173 ..
-#: admin/views/templates/slider-main-options.php:2388 ..
-#: admin/views/templates/slider-main-options.php:2417 ..
-#: admin/views/templates/slider-main-options.php:2532 ..
-#: admin/views/templates/slider-main-options.php:2702 ..
-#: admin/views/templates/slider-main-options.php:2870 ..
-#: admin/views/templates/slider-main-options.php:3205
-msgid "Left"
-msgstr "左边"
 
 #: ../admin/views/navigation-editor.php:133 ../admin/views/navigation-editor.php:
 #: 149 ../admin/views/navigation-editor.php:165 ../admin/views/templates/slide-
@@ -1013,20 +937,9 @@ msgstr ""
 msgid "Edit Template Slide"
 msgstr ""
 
-#: ../admin/views/slide-editor.php:316 ../admin/views/templates/slides-list.php:
-#: 107 ../admin/views/templates/wpml-selector.php:10
-msgid "Edit Slide"
-msgstr "编辑幻灯片"
-
 #: ../admin/views/slide-editor.php:318 ../admin/views/slider-overview.php:279
 msgid "Title:"
 msgstr ""
-
-#: ../admin/views/slide-editor.php:321 ../admin/views/slider-overview.php:67 ..
-#: admin/views/templates/slider-main-options.php:26 ..
-#: admin/views/templates/slides.php:10
-msgid "Help"
-msgstr "帮助"
 
 #: ../admin/views/slide-editor.php:350
 msgid ""
@@ -1325,15 +1238,6 @@ msgstr ""
 msgid "Update Static Layers"
 msgstr ""
 
-#: ../admin/views/slide-editor.php:846
-msgid "updating"
-msgstr "更新中"
-
-#: ../admin/views/slide-editor.php:848 ../admin/views/slide-editor.php:883 ..
-#: admin/views/slide-overview.php:169
-msgid "Slider Settings"
-msgstr "滑块设置"
-
 #: ../admin/views/slide-editor.php:849
 msgid "Slides Overview"
 msgstr ""
@@ -1345,12 +1249,6 @@ msgstr ""
 #: ../admin/views/slide-editor.php:873
 msgid "CSS Global"
 msgstr ""
-
-#: ../admin/views/slide-editor.php:887 ../admin/views/templates/slider-main-
-#: options.php:1310 ../admin/views/templates/slider-main-options.php:4292 ..
-#: admin/views/templates/sliders-list.php:169
-msgid "Preview"
-msgstr "预览"
 
 #: ../admin/views/slide-editor.php:893
 msgid "Rename Animation"
@@ -1384,10 +1282,6 @@ msgstr ""
 msgid "Post List"
 msgstr ""
 
-#: ../admin/views/slide-overview.php:76 ../admin/views/templates/slides-list.php:6
-msgid "Saving Order"
-msgstr "保存列表中"
-
 #: ../admin/views/slide-overview.php:80 ../admin/views/templates/slides-list.php:12
 msgid "No Posts Found"
 msgstr ""
@@ -1414,27 +1308,11 @@ msgstr ""
 msgid "no image"
 msgstr ""
 
-#: ../admin/views/slide-overview.php:150 ../admin/views/templates/slide-selector.
-#: php:198 ../admin/views/templates/slide-stage.php:89 ..
-#: admin/views/templates/slide-stage.php:704 ../admin/views/templates/slide-
-#: stage.php:879 ../admin/views/templates/sliders-list.php:167 ..
-#: admin/views/templates/slides-list.php:134
-msgid "Delete"
-msgstr "删除"
-
 #: ../admin/views/slide-overview.php:173
 msgid ""
 "Warning! Removing this entry will cause the original wordpress post to be "
 "deleted."
 msgstr ""
-
-#: ../admin/views/slider-overview.php:69
-msgid "Global Settings"
-msgstr "全局设置"
-
-#: ../admin/views/slider-overview.php:76
-msgid "Revolution Sliders"
-msgstr "革命滑块"
 
 #: ../admin/views/slider-overview.php:81
 msgid "Sort By:"
@@ -1464,16 +1342,6 @@ msgstr ""
 #: options.php:3408
 msgid "All"
 msgstr ""
-
-#: ../admin/views/slider-overview.php:93 ../admin/views/templates/sliders-list.
-#: php:33
-msgid "Posts"
-msgstr "文章"
-
-#: ../admin/views/slider-overview.php:94 ../admin/views/templates/slider-main-
-#: options.php:146 ../admin/views/templates/sliders-list.php:21
-msgid "Gallery"
-msgstr "图片墙"
 
 #: ../admin/views/slider-overview.php:95 ../admin/views/system/dialog-video.php:
 #: 30 ../admin/views/templates/sliders-list.php:74
@@ -1505,10 +1373,6 @@ msgstr ""
 msgid "Flickr"
 msgstr ""
 
-#: ../admin/views/slider-overview.php:111
-msgid "No Sliders Found"
-msgstr "没有找到幻灯片"
-
 #: ../admin/views/slider-overview.php:126
 msgid "For the"
 msgstr ""
@@ -1525,14 +1389,6 @@ msgstr ""
 msgid "From the"
 msgstr ""
 
-#: ../admin/views/slider-overview.php:128
-msgid "theme html"
-msgstr "HTML主题"
-
-#: ../admin/views/slider-overview.php:128
-msgid "use"
-msgstr "使用"
-
 #: ../admin/views/slider-overview.php:129
 msgid "To add the slider only to homepage use"
 msgstr ""
@@ -1540,14 +1396,6 @@ msgstr ""
 #: ../admin/views/slider-overview.php:130
 msgid "To add the slider on specific pages or posts use"
 msgstr ""
-
-#: ../admin/views/slider-overview.php:132
-msgid "widgets panel"
-msgstr "小工具面板"
-
-#: ../admin/views/slider-overview.php:132
-msgid "drag the \"Revolution Slider\" widget to the desired sidebar"
-msgstr "拖动革命滑块到所需的侧边栏小部件"
 
 #: ../admin/views/slider-overview.php:144
 msgid "Version Information"
@@ -1680,52 +1528,6 @@ msgstr ""
 msgid "Import Slider"
 msgstr ""
 
-#: ../admin/views/slider-overview.php:254
-msgid "Choose the import file"
-msgstr "选择导入文件"
-
-#: ../admin/views/slider-overview.php:258 ../admin/views/templates/template-
-#: selector.php:242 ../admin/views/templates/template-slider-selector.php:171
-msgid "Note: custom styles will be updated if they exist!"
-msgstr "注：自定义样式如果存在将会被更新！"
-
-#: ../admin/views/slider-overview.php:261 ../admin/views/templates/template-
-#: selector.php:245 ../admin/views/templates/template-slider-selector.php:174
-msgid "Custom Animations:"
-msgstr "自定义动画："
-
-#: ../admin/views/slider-overview.php:262 ../admin/views/slider-overview.php:267 .
-#: ./admin/views/templates/slider-main-options.php:3564 ..
-#: admin/views/templates/slider-main-options.php:3569 ..
-#: admin/views/templates/template-selector.php:246 ..
-#: admin/views/templates/template-selector.php:251 ..
-#: admin/views/templates/template-slider-selector.php:175 ..
-#: admin/views/templates/template-slider-selector.php:180
-msgid "overwrite"
-msgstr "覆盖"
-
-#: ../admin/views/slider-overview.php:263 ../admin/views/slider-overview.php:268 .
-#: ./admin/views/templates/slider-main-options.php:3565 ..
-#: admin/views/templates/slider-main-options.php:3570 ..
-#: admin/views/templates/template-selector.php:247 ..
-#: admin/views/templates/template-selector.php:252 ..
-#: admin/views/templates/template-slider-selector.php:176 ..
-#: admin/views/templates/template-slider-selector.php:181
-msgid "append"
-msgstr "附加"
-
-#: ../admin/views/slider-overview.php:266 ../admin/views/templates/slide-stage.
-#: php:62 ../admin/views/templates/template-selector.php:250 ..
-#: admin/views/templates/template-slider-selector.php:179
-msgid "Static Styles:"
-msgstr "静态样式"
-
-#: ../admin/views/slider-overview.php:277 ../admin/views/templates/slide-selector.
-#: php:196 ../admin/views/templates/sliders-list.php:168 ..
-#: admin/views/templates/slides-list.php:136
-msgid "Duplicate"
-msgstr "复制/备份"
-
 #: ../admin/views/system/dialog-copy-move.php:3
 msgid "Do It!"
 msgstr ""
@@ -1750,11 +1552,6 @@ msgstr ""
 msgid "Move"
 msgstr ""
 
-#: ../admin/views/system/dialog-global-settings.php:25 ..
-#: admin/views/templates/slider-main-options.php:1582
-msgid "General Settings"
-msgstr "通用设置"
-
 #: ../admin/views/system/dialog-global-settings.php:36
 msgid "View Plugin Permission:"
 msgstr ""
@@ -1778,26 +1575,6 @@ msgstr ""
 #: ../admin/views/system/dialog-global-settings.php:52
 msgid "Include RevSlider libraries globally:"
 msgstr ""
-
-#: ../admin/views/system/dialog-global-settings.php:58 ..
-#: admin/views/system/dialog-global-settings.php:92 ../admin/views/system/dialog-
-#: global-settings.php:113 ../admin/views/system/dialog-global-settings.php:134 ..
-#: admin/views/system/dialog-global-settings.php:187 ..
-#: admin/views/system/dialog-global-settings.php:209 ..
-#: admin/views/templates/slider-main-options.php:3506
-msgid "On"
-msgstr "打开"
-
-#: ../admin/views/system/dialog-global-settings.php:63 ..
-#: admin/views/system/dialog-global-settings.php:97 ../admin/views/system/dialog-
-#: global-settings.php:118 ../admin/views/system/dialog-global-settings.php:139 ..
-#: admin/views/system/dialog-global-settings.php:192 ..
-#: admin/views/system/dialog-global-settings.php:214 ..
-#: admin/views/templates/slider-main-options.php:2210 ..
-#: admin/views/templates/slider-main-options.php:3487 ..
-#: admin/views/templates/slider-main-options.php:3508
-msgid "Off"
-msgstr "关闭"
 
 #: ../admin/views/system/dialog-global-settings.php:68
 msgid ""
@@ -1849,9 +1626,9 @@ msgstr ""
 
 #: ../admin/views/system/dialog-global-settings.php:154
 msgid ""
-"Insert something in it and it will be used instead of http://fonts."
-"useso.com/css?family= (For example: http://fonts.useso.com/css?family= "
-"which will also work for chinese visitors)"
+"Insert something in it and it will be used instead of http://fonts.useso."
+"com/css?family= (For example: http://fonts.useso.com/css?family= which will "
+"also work for chinese visitors)"
 msgstr ""
 
 #: ../admin/views/system/dialog-global-settings.php:161
@@ -1915,10 +1692,6 @@ msgstr ""
 msgid "Sizing"
 msgstr ""
 
-#: ../admin/views/system/dialog-video.php:14
-msgid "Settings"
-msgstr "设置"
-
 #: ../admin/views/system/dialog-video.php:15 ../admin/views/templates/slide-stage.
 #: php:32 ../admin/views/templates/slider-main-options.php:2342 ..
 #: admin/views/templates/slider-main-options.php:2487 ..
@@ -1930,10 +1703,6 @@ msgstr ""
 #: ../admin/views/system/dialog-video.php:16
 msgid "Arguments"
 msgstr ""
-
-#: ../admin/views/system/dialog-video.php:26
-msgid "Choose video type"
-msgstr "选择视频类型"
 
 #: ../admin/views/system/dialog-video.php:32
 msgid "HTML5"
@@ -1956,12 +1725,6 @@ msgstr ""
 #: ../admin/views/system/dialog-video.php:60
 msgid "YouTube ID or URL"
 msgstr ""
-
-#: ../admin/views/system/dialog-video.php:63 ../admin/views/system/dialog-video.
-#: php:74 ../admin/views/system/dialog-video.php:82 ../admin/views/system/dialog-
-#: video.php:89 ../admin/views/system/dialog-video.php:96
-msgid "example"
-msgstr "例如"
 
 #: ../admin/views/system/dialog-video.php:69
 msgid "Poster Image Url"
@@ -2046,12 +1809,6 @@ msgstr ""
 #: general-settings.php:265
 msgid "Loop Video:"
 msgstr ""
-
-#: ../admin/views/system/dialog-video.php:145 ../admin/views/system/dialog-video.
-#: php:217 ../admin/views/templates/slide-general-settings.php:267 ..
-#: admin/views/templates/slide-general-settings.php:900
-msgid "Disable"
-msgstr "禁用"
 
 #: ../admin/views/system/dialog-video.php:146 ../admin/views/templates/slide-
 #: general-settings.php:268
@@ -2330,26 +2087,6 @@ msgstr ""
 msgid "Main / Background Image"
 msgstr ""
 
-#: ../admin/views/templates/slide-general-settings.php:89
-msgid "Change Image"
-msgstr "选择图片"
-
-#: ../admin/views/templates/slide-general-settings.php:97
-msgid "External URL"
-msgstr "外部URL"
-
-#: ../admin/views/templates/slide-general-settings.php:103
-msgid "Get External"
-msgstr "外部链接地址"
-
-#: ../admin/views/templates/slide-general-settings.php:109
-msgid "Transparent"
-msgstr "透明"
-
-#: ../admin/views/templates/slide-general-settings.php:114
-msgid "Solid Colored"
-msgstr "纯色"
-
 #: ../admin/views/templates/slide-general-settings.php:124
 msgid "YouTube Video"
 msgstr ""
@@ -2414,12 +2151,6 @@ msgstr ""
 msgid "From Filename"
 msgstr ""
 
-#: ../admin/views/templates/slide-general-settings.php:209 ..
-#: admin/views/templates/slide-stage.php:1261 ../admin/views/templates/slide-
-#: stage.php:1729
-msgid "Custom"
-msgstr "自定义"
-
 #: ../admin/views/templates/slide-general-settings.php:215
 msgid "Width:"
 msgstr ""
@@ -2447,18 +2178,6 @@ msgstr ""
 #: ../admin/views/templates/slide-general-settings.php:283
 msgid "Mute Video:"
 msgstr ""
-
-#: ../admin/views/templates/slide-general-settings.php:311
-msgid "Background Fit:"
-msgstr "背景适合："
-
-#: ../admin/views/templates/slide-general-settings.php:322
-msgid "Background Position:"
-msgstr "背景位置："
-
-#: ../admin/views/templates/slide-general-settings.php:343
-msgid "Background Repeat:"
-msgstr "背景重复："
 
 #: ../admin/views/templates/slide-general-settings.php:359
 msgid "Parallax Level:"
@@ -2519,10 +2238,6 @@ msgstr ""
 msgid "Duration (in ms):"
 msgstr ""
 
-#: ../admin/views/templates/slide-general-settings.php:478
-msgid "The title of the slide, will be shown in the slides list."
-msgstr "幻灯片的标题，将显示在幻灯片列表中。"
-
 #: ../admin/views/templates/slide-general-settings.php:484
 msgid "Slide \"Delay\":"
 msgstr ""
@@ -2536,20 +2251,6 @@ msgstr ""
 #: ../admin/views/templates/slide-general-settings.php:492
 msgid "Slide State"
 msgstr ""
-
-#: ../admin/views/templates/slide-general-settings.php:494
-msgid "Published"
-msgstr "已发布"
-
-#: ../admin/views/templates/slide-general-settings.php:495
-msgid "Unpublished"
-msgstr "未发布"
-
-#: ../admin/views/templates/slide-general-settings.php:497
-msgid ""
-"The state of the slide. The unpublished slide will be excluded from the "
-"slider."
-msgstr "幻灯片的状态。未发表的幻灯片将不会使用"
 
 #: ../admin/views/templates/slide-general-settings.php:510
 msgid "Language"
@@ -2578,10 +2279,6 @@ msgstr ""
 #: ../admin/views/templates/slide-general-settings.php:547
 msgid "Thumbnail:"
 msgstr ""
-
-#: ../admin/views/templates/slide-general-settings.php:565
-msgid "Slide Thumbnail. If not set - it will be taken from the slide image."
-msgstr "滑块缩略图。如果没有设置，将会选取幻灯片里的图片"
 
 #: ../admin/views/templates/slide-general-settings.php:572
 msgid "Save Performance:"
@@ -2683,10 +2380,6 @@ msgstr ""
 msgid "Enable Link:"
 msgstr ""
 
-#: ../admin/views/templates/slide-general-settings.php:899
-msgid "Enable"
-msgstr "启用"
-
 #: ../admin/views/templates/slide-general-settings.php:902
 msgid "Link the Full Slide to an URL or Action."
 msgstr ""
@@ -2694,14 +2387,6 @@ msgstr ""
 #: ../admin/views/templates/slide-general-settings.php:909
 msgid "Link Type:"
 msgstr ""
-
-#: ../admin/views/templates/slide-general-settings.php:911
-msgid "Regular"
-msgstr "正常"
-
-#: ../admin/views/templates/slide-general-settings.php:912
-msgid "To Slide"
-msgstr "链接到另一个幻灯片"
 
 #: ../admin/views/templates/slide-general-settings.php:914
 msgid "Regular - Link to URL,  To Slide - Call a Slide Action"
@@ -2721,31 +2406,9 @@ msgstr ""
 msgid "Link Target:"
 msgstr ""
 
-#: ../admin/views/templates/slide-general-settings.php:931 ..
-#: admin/views/templates/slide-stage.php:2273
-msgid "Same Window"
-msgstr "同一窗口"
-
-#: ../admin/views/templates/slide-general-settings.php:932 ..
-#: admin/views/templates/slide-stage.php:2274
-msgid "New Window"
-msgstr "新窗口"
-
 #: ../admin/views/templates/slide-general-settings.php:934
 msgid "The target of the slide link."
 msgstr ""
-
-#: ../admin/views/templates/slide-general-settings.php:942
-msgid "-- Not Chosen --"
-msgstr "-- 未选择 --"
-
-#: ../admin/views/templates/slide-general-settings.php:943
-msgid "-- Next Slide --"
-msgstr "-- 下一张滑块 --"
-
-#: ../admin/views/templates/slide-general-settings.php:944
-msgid "-- Previous Slide --"
-msgstr "-- 上一张幻灯片 --"
 
 #: ../admin/views/templates/slide-general-settings.php:947
 msgid "-- Scroll Below Slider --"
@@ -2804,18 +2467,9 @@ msgstr ""
 msgid "Slide name should not be empty"
 msgstr ""
 
-#: ../admin/views/templates/slide-stage.php:12
-msgid "Style"
-msgstr "样式"
-
 #: ../admin/views/templates/slide-stage.php:13
 msgid "Advanced Style on/off"
 msgstr ""
-
-#: ../admin/views/templates/slide-stage.php:19 ../admin/views/templates/slide-
-#: stage.php:1766
-msgid "Animation"
-msgstr "动画"
 
 #: ../admin/views/templates/slide-stage.php:20
 msgid "Play/Pause Single Layer Animation"
@@ -3021,13 +2675,6 @@ msgstr ""
 msgid "Transform"
 msgstr ""
 
-#: ../admin/views/templates/slide-stage.php:246 ../admin/views/templates/slide-
-#: stage.php:514 ../admin/views/templates/slide-stage.php:752 ..
-#: admin/views/templates/slide-stage.php:928 ../admin/views/templates/slider-
-#: main-options.php:3161
-msgid "Rotation"
-msgstr "旋转"
-
 #: ../admin/views/templates/slide-stage.php:247 ../admin/views/templates/slide-
 #: stage.php:757 ../admin/views/templates/slide-stage.php:933
 msgid "Perspective"
@@ -3065,22 +2712,6 @@ msgstr ""
 #: stage.php:279
 msgid "Text Align"
 msgstr ""
-
-#: ../admin/views/templates/slide-stage.php:281 ../admin/views/templates/slider-
-#: main-options.php:2174 ../admin/views/templates/slider-main-options.php:2389 ..
-#: admin/views/templates/slider-main-options.php:2398 ..
-#: admin/views/templates/slider-main-options.php:2418 ..
-#: admin/views/templates/slider-main-options.php:2428 ..
-#: admin/views/templates/slider-main-options.php:2533 ..
-#: admin/views/templates/slider-main-options.php:2541 ..
-#: admin/views/templates/slider-main-options.php:2703 ..
-#: admin/views/templates/slider-main-options.php:2711 ..
-#: admin/views/templates/slider-main-options.php:2871 ..
-#: admin/views/templates/slider-main-options.php:2879 ..
-#: admin/views/templates/slider-main-options.php:3206 ..
-#: admin/views/templates/slider-main-options.php:3214
-msgid "Center"
-msgstr "居中"
 
 #: ../admin/views/templates/slide-stage.php:290 ../admin/views/templates/slide-
 #: stage.php:291 ../admin/views/templates/slide-stage.php:542 ..
@@ -3564,10 +3195,6 @@ msgstr ""
 msgid "Ignore Lazy Loading"
 msgstr ""
 
-#: ../admin/views/templates/slide-stage.php:1152
-msgid "Source Type"
-msgstr "源类型"
-
 #: ../admin/views/templates/slide-stage.php:1174 ../admin/views/templates/slide-
 #: stage.php:2337
 msgid "Animation Timing"
@@ -3603,10 +3230,6 @@ msgstr ""
 msgid "Keep last selected State"
 msgstr ""
 
-#: ../admin/views/templates/slide-stage.php:1227
-msgid "ID"
-msgstr "ID"
-
 #: ../admin/views/templates/slide-stage.php:1234
 msgid "Classes"
 msgstr ""
@@ -3638,10 +3261,6 @@ msgstr ""
 #: ../admin/views/templates/slide-stage.php:1333
 msgid "Only on Slider Hover"
 msgstr ""
-
-#: ../admin/views/templates/slide-stage.php:1351
-msgid "Auto Responsive"
-msgstr "自动适应"
 
 #: ../admin/views/templates/slide-stage.php:1357
 msgid "Child Elements Responsive"
@@ -3715,10 +3334,6 @@ msgstr ""
 msgid "Slide contains no layers"
 msgstr ""
 
-#: ../admin/views/templates/slide-stage.php:1624
-msgid "Delete All Layers"
-msgstr "删除所有幻灯片"
-
 #: ../admin/views/templates/slide-stage.php:1630
 msgid "Desktop"
 msgstr ""
@@ -3745,11 +3360,6 @@ msgstr ""
 #: ../admin/views/templates/slide-stage.php:1732
 msgid "Snap to:"
 msgstr ""
-
-#: ../admin/views/templates/slide-stage.php:1734 ../admin/views/templates/slider-
-#: main-options.php:3420 ../admin/views/templates/slider-main-options.php:3514
-msgid "None"
-msgstr "空"
 
 #: ../admin/views/templates/slide-stage.php:1735
 msgid "Help Lines"
@@ -3888,21 +3498,6 @@ msgstr ""
 msgid "Jump to Slide"
 msgstr ""
 
-#: ../admin/views/templates/slide-stage.php:2247 ../admin/views/templates/slider-
-#: main-options.php:3641
-msgid "Next Slide"
-msgstr "下一张幻灯片"
-
-#: ../admin/views/templates/slide-stage.php:2248 ../admin/views/templates/slider-
-#: main-options.php:3637
-msgid "Previous Slide"
-msgstr "上一张幻灯片"
-
-#: ../admin/views/templates/slide-stage.php:2249 ../admin/views/templates/slider-
-#: main-options.php:3629
-msgid "Pause Slider"
-msgstr "暂停滑块"
-
 #: ../admin/views/templates/slide-stage.php:2250
 msgid "Play Slider"
 msgstr ""
@@ -3939,10 +3534,6 @@ msgstr ""
 msgid "Link Target"
 msgstr ""
 
-#: ../admin/views/templates/slide-stage.php:2277
-msgid "Link Type"
-msgstr "链接类型"
-
 #: ../admin/views/templates/slide-stage.php:2280
 msgid "jQuery Link"
 msgstr ""
@@ -3967,27 +3558,6 @@ msgstr ""
 msgid "Target"
 msgstr ""
 
-#: ../admin/views/templates/slide-stage.php:2313
-msgid "Delay"
-msgstr "延迟时间"
-
-#: ../admin/views/templates/slide-stage.php:2315 ../admin/views/templates/slider-
-#: main-options.php:1620 ../admin/views/templates/slider-main-options.php:1626 ..
-#: admin/views/templates/slider-main-options.php:1645 ..
-#: admin/views/templates/slider-main-options.php:1889 ..
-#: admin/views/templates/slider-main-options.php:1895 ..
-#: admin/views/templates/slider-main-options.php:2353 ..
-#: admin/views/templates/slider-main-options.php:2358 ..
-#: admin/views/templates/slider-main-options.php:2498 ..
-#: admin/views/templates/slider-main-options.php:2503 ..
-#: admin/views/templates/slider-main-options.php:2655 ..
-#: admin/views/templates/slider-main-options.php:2660 ..
-#: admin/views/templates/slider-main-options.php:2824 ..
-#: admin/views/templates/slider-main-options.php:2828 ..
-#: admin/views/templates/slider-main-options.php:3318
-msgid "ms"
-msgstr "毫秒(ms)"
-
 #: ../admin/views/templates/slide-stage.php:2320
 msgid "at Start"
 msgstr ""
@@ -4004,15 +3574,6 @@ msgstr ""
 msgid "Class"
 msgstr ""
 
-#: ../admin/views/templates/slider-main-options.php:25
-msgid "Edit Slider"
-msgstr "编辑滑块"
-
-#: ../admin/views/templates/slider-main-options.php:25 ..
-#: admin/views/templates/sliders-list.php:184
-msgid "New Slider"
-msgstr "新建滑块"
-
 #: ../admin/views/templates/slider-main-options.php:36
 msgid "Content Source"
 msgstr ""
@@ -4024,10 +3585,6 @@ msgstr ""
 #: ../admin/views/templates/slider-main-options.php:48
 msgid "Post-Based Slider"
 msgstr ""
-
-#: ../admin/views/templates/slider-main-options.php:53
-msgid "Specific Posts"
-msgstr "特定文章"
 
 #: ../admin/views/templates/slider-main-options.php:58
 msgid "Flickr Stream"
@@ -4659,12 +4216,6 @@ msgid ""
 "This is where the magic happens!"
 msgstr ""
 
-#: ../admin/views/templates/slider-main-options.php:1289 ..
-#: admin/views/templates/slider-main-options.php:4286 ..
-#: admin/views/templates/slides.php:8
-msgid "Edit Slides"
-msgstr "编辑幻灯片"
-
 #: ../admin/views/templates/slider-main-options.php:1297
 msgid "Implement your Slider"
 msgstr ""
@@ -4674,25 +4225,6 @@ msgid ""
 "There are several ways to add your slider to your wordpress post / page / "
 "etc."
 msgstr ""
-
-#: ../admin/views/templates/slider-main-options.php:1305 ..
-#: admin/views/templates/slider-main-options.php:4272
-msgid "Save Settings"
-msgstr "保存设置"
-
-#: ../admin/views/templates/slider-main-options.php:1306 ..
-#: admin/views/templates/slider-main-options.php:4273
-msgid "updating..."
-msgstr "更新中..."
-
-#: ../admin/views/templates/slider-main-options.php:1308 ..
-#: admin/views/templates/slider-main-options.php:4277
-msgid "Delete Slider"
-msgstr "删除滑块"
-
-#: ../admin/views/templates/slider-main-options.php:1310
-msgid "Preview Slider"
-msgstr "预览滑块"
 
 #: ../admin/views/templates/slider-main-options.php:1329
 msgid "Custom CSS / Javascript"
@@ -4768,10 +4300,6 @@ msgstr ""
 #: ../admin/views/templates/slider-main-options.php:1629
 msgid "Default transition by creating a new slide."
 msgstr ""
-
-#: ../admin/views/templates/slider-main-options.php:1629
-msgid "Transitions"
-msgstr "过渡"
 
 #: ../admin/views/templates/slider-main-options.php:1643
 msgid "Default transition duration by creating a new slide."
@@ -4866,14 +4394,6 @@ msgid ""
 "special transition for the first slide."
 msgstr ""
 
-#: ../admin/views/templates/slider-main-options.php:1868
-msgid "First Transition Active"
-msgstr "当前的第一个过度"
-
-#: ../admin/views/templates/slider-main-options.php:1873
-msgid "First slide transition type"
-msgstr "第一张幻灯片过渡类型"
-
 #: ../admin/views/templates/slider-main-options.php:1873
 msgid "Transition Type"
 msgstr ""
@@ -4881,10 +4401,6 @@ msgstr ""
 #: ../admin/views/templates/slider-main-options.php:1887
 msgid "First slide transition duration."
 msgstr ""
-
-#: ../admin/views/templates/slider-main-options.php:1887
-msgid "Transition Duration"
-msgstr "过渡时间"
 
 #: ../admin/views/templates/slider-main-options.php:1893
 msgid "The number of slots or boxes the slide is divided into."
@@ -5003,49 +4519,6 @@ msgstr ""
 msgid "Progress Bar Heigth"
 msgstr ""
 
-#: ../admin/views/templates/slider-main-options.php:1973 ..
-#: admin/views/templates/slider-main-options.php:1979 ..
-#: admin/views/templates/slider-main-options.php:2074 ..
-#: admin/views/templates/slider-main-options.php:2080 ..
-#: admin/views/templates/slider-main-options.php:2085 ..
-#: admin/views/templates/slider-main-options.php:2182 ..
-#: admin/views/templates/slider-main-options.php:2188 ..
-#: admin/views/templates/slider-main-options.php:2194 ..
-#: admin/views/templates/slider-main-options.php:2199 ..
-#: admin/views/templates/slider-main-options.php:2369 ..
-#: admin/views/templates/slider-main-options.php:2380 ..
-#: admin/views/templates/slider-main-options.php:2405 ..
-#: admin/views/templates/slider-main-options.php:2411 ..
-#: admin/views/templates/slider-main-options.php:2437 ..
-#: admin/views/templates/slider-main-options.php:2443 ..
-#: admin/views/templates/slider-main-options.php:2475 ..
-#: admin/views/templates/slider-main-options.php:2514 ..
-#: admin/views/templates/slider-main-options.php:2525 ..
-#: admin/views/templates/slider-main-options.php:2548 ..
-#: admin/views/templates/slider-main-options.php:2554 ..
-#: admin/views/templates/slider-main-options.php:2614 ..
-#: admin/views/templates/slider-main-options.php:2628 ..
-#: admin/views/templates/slider-main-options.php:2633 ..
-#: admin/views/templates/slider-main-options.php:2638 ..
-#: admin/views/templates/slider-main-options.php:2671 ..
-#: admin/views/templates/slider-main-options.php:2682 ..
-#: admin/views/templates/slider-main-options.php:2718 ..
-#: admin/views/templates/slider-main-options.php:2724 ..
-#: admin/views/templates/slider-main-options.php:2785 ..
-#: admin/views/templates/slider-main-options.php:2799 ..
-#: admin/views/templates/slider-main-options.php:2804 ..
-#: admin/views/templates/slider-main-options.php:2809 ..
-#: admin/views/templates/slider-main-options.php:2839 ..
-#: admin/views/templates/slider-main-options.php:2850 ..
-#: admin/views/templates/slider-main-options.php:2886 ..
-#: admin/views/templates/slider-main-options.php:2892 ..
-#: admin/views/templates/slider-main-options.php:3101 ..
-#: admin/views/templates/slider-main-options.php:3110 ..
-#: admin/views/templates/slider-main-options.php:3117 ..
-#: admin/views/templates/slider-main-options.php:3120
-msgid "px"
-msgstr "像素(px)"
-
 #: ../admin/views/templates/slider-main-options.php:1977
 #, php-format
 msgid ""
@@ -5069,20 +4542,9 @@ msgstr ""
 msgid "Layout & Visual"
 msgstr ""
 
-#: ../admin/views/templates/slider-main-options.php:2052
-msgid "Appearance"
-msgstr "外观"
-
 #: ../admin/views/templates/slider-main-options.php:2054
 msgid "Spinner"
 msgstr ""
-
-#: ../admin/views/templates/slider-main-options.php:2056 ..
-#: admin/views/templates/slider-main-options.php:2529 ..
-#: admin/views/templates/slider-main-options.php:2686 ..
-#: admin/views/templates/slider-main-options.php:2854
-msgid "Position"
-msgstr "位置"
 
 #: ../admin/views/templates/slider-main-options.php:2061
 msgid "If this is enabled, the slider will not be loaded on mobile devices."
@@ -5139,14 +4601,6 @@ msgstr ""
 msgid "The Shadow display underneath the banner."
 msgstr ""
 
-#: ../admin/views/templates/slider-main-options.php:2093
-msgid "Shadow Type"
-msgstr "阴影类型"
-
-#: ../admin/views/templates/slider-main-options.php:2095
-msgid "No Shadow"
-msgstr "无阴影"
-
 #: ../admin/views/templates/slider-main-options.php:2105
 msgid "Show a dotted overlay over the slides."
 msgstr ""
@@ -5165,10 +4619,6 @@ msgid ""
 "container."
 msgstr ""
 
-#: ../admin/views/templates/slider-main-options.php:2116
-msgid "Background color"
-msgstr "背景颜色"
-
 #: ../admin/views/templates/slider-main-options.php:2120
 msgid ""
 "Padding around the slider. Together with background color shows as slider "
@@ -5183,17 +4633,9 @@ msgstr ""
 msgid "Use a general background image instead of general background color."
 msgstr ""
 
-#: ../admin/views/templates/slider-main-options.php:2124
-msgid "Show Background Image"
-msgstr "显示背景图片"
-
 #: ../admin/views/templates/slider-main-options.php:2129
 msgid "The source of the general background image."
 msgstr ""
-
-#: ../admin/views/templates/slider-main-options.php:2129
-msgid "Background Image Url"
-msgstr "背景图片的URL地址"
 
 #: ../admin/views/templates/slider-main-options.php:2130
 msgid "Set"
@@ -5292,42 +4734,6 @@ msgid ""
 "embeded instead of using left/right here !"
 msgstr ""
 
-#: ../admin/views/templates/slider-main-options.php:2171
-msgid "Position on the page"
-msgstr "页面上的位置"
-
-#: ../admin/views/templates/slider-main-options.php:2180
-msgid "The top margin of the slider wrapper div"
-msgstr "幻灯片距上部div的上边距"
-
-#: ../admin/views/templates/slider-main-options.php:2180
-msgid "Margin Top"
-msgstr "上边距(Margin Top)"
-
-#: ../admin/views/templates/slider-main-options.php:2186
-msgid "The bottom margin of the slider wrapper div"
-msgstr "幻灯片距下部div的下边距"
-
-#: ../admin/views/templates/slider-main-options.php:2186
-msgid "Margin Bottom"
-msgstr "下边距(Margin Bottom)"
-
-#: ../admin/views/templates/slider-main-options.php:2192
-msgid "The left margin of the slider wrapper div"
-msgstr "滑块距左部div的左边距"
-
-#: ../admin/views/templates/slider-main-options.php:2192
-msgid "Margin Left"
-msgstr "左边距"
-
-#: ../admin/views/templates/slider-main-options.php:2197
-msgid "The right margin of the slider wrapper div"
-msgstr "幻灯片距右部div的右边距"
-
-#: ../admin/views/templates/slider-main-options.php:2197
-msgid "Margin Right"
-msgstr "有边距"
-
 #: ../admin/views/templates/slider-main-options.php:2208
 msgid "Select a Spinner for your Slider"
 msgstr ""
@@ -5357,10 +4763,6 @@ msgstr ""
 #: ../admin/views/templates/slider-main-options.php:2220
 msgid "Spinner Color"
 msgstr ""
-
-#: ../admin/views/templates/slider-main-options.php:2305
-msgid "Navigation"
-msgstr "导航"
 
 #: ../admin/views/templates/slider-main-options.php:2314
 msgid "Touch"
@@ -5400,20 +4802,6 @@ msgstr ""
 #: admin/views/templates/slider-main-options.php:2814
 msgid "Always Show "
 msgstr ""
-
-#: ../admin/views/templates/slider-main-options.php:2345 ..
-#: admin/views/templates/slider-main-options.php:2491 ..
-#: admin/views/templates/slider-main-options.php:2647 ..
-#: admin/views/templates/slider-main-options.php:2816
-msgid "Yes"
-msgstr "是"
-
-#: ../admin/views/templates/slider-main-options.php:2346 ..
-#: admin/views/templates/slider-main-options.php:2492 ..
-#: admin/views/templates/slider-main-options.php:2648 ..
-#: admin/views/templates/slider-main-options.php:2817
-msgid "No"
-msgstr "否"
 
 #: ../admin/views/templates/slider-main-options.php:2351
 msgid "Time after the Arrows will be hidden(Default: 200 ms)"
@@ -5730,17 +5118,9 @@ msgstr ""
 msgid "The basic Width of one Thumbnail."
 msgstr ""
 
-#: ../admin/views/templates/slider-main-options.php:2626
-msgid "Thumb Width"
-msgstr "缩略图宽度"
-
 #: ../admin/views/templates/slider-main-options.php:2631
 msgid "The basic Height of one Thumbnail."
 msgstr ""
-
-#: ../admin/views/templates/slider-main-options.php:2631
-msgid "Thumb Height"
-msgstr "缩略图高度"
 
 #: ../admin/views/templates/slider-main-options.php:2636
 msgid ""
@@ -5955,14 +5335,6 @@ msgstr ""
 #: ../admin/views/templates/slider-main-options.php:2890
 msgid "Offset from current vertical position of tabs."
 msgstr ""
-
-#: ../admin/views/templates/slider-main-options.php:2901
-msgid "Enable Swipe Function on touch devices"
-msgstr "启用具有滑动功能的触摸设备"
-
-#: ../admin/views/templates/slider-main-options.php:2901
-msgid "Touch Enabled"
-msgstr "启用点触设备"
 
 #: ../admin/views/templates/slider-main-options.php:2905
 msgid "Scroll below slider on vertical swipe"
@@ -6338,10 +5710,6 @@ msgid ""
 "be shown, always on demand."
 msgstr ""
 
-#: ../admin/views/templates/slider-main-options.php:3406
-msgid "Lazy Load"
-msgstr "延迟加载"
-
 #: ../admin/views/templates/slider-main-options.php:3409
 msgid "Smart"
 msgstr ""
@@ -6379,10 +5747,6 @@ msgstr ""
 #: ../admin/views/templates/slider-main-options.php:3477
 msgid "Fallbacks"
 msgstr ""
-
-#: ../admin/views/templates/slider-main-options.php:3478
-msgid "Troubleshooting"
-msgstr "故障排除"
 
 #: ../admin/views/templates/slider-main-options.php:3481
 msgid "Simplyfies the Slider on IOS4 and IE8"
@@ -6426,37 +5790,17 @@ msgid ""
 "javascript conflicts exist on the page."
 msgstr ""
 
-#: ../admin/views/templates/slider-main-options.php:3499
-msgid "JQuery No Conflict Mode"
-msgstr "JQuery的无冲突模式"
-
 #: ../admin/views/templates/slider-main-options.php:3503
 msgid ""
 "Try this to fix some javascript conflicts of type: TypeError: "
 "tpj('#rev_slider_1_1').show().revolution is not a function"
 msgstr ""
 
-#: ../admin/views/templates/slider-main-options.php:3503
-msgid "Put JS Includes To Body"
-msgstr "把JS包含在body块"
-
 #: ../admin/views/templates/slider-main-options.php:3512
 msgid ""
 "Activate a protection against wordpress output filters that adds html blocks "
 "to the shortcode output like P and BR."
 msgstr ""
-
-#: ../admin/views/templates/slider-main-options.php:3512
-msgid "Output Filters Protection"
-msgstr "保护输出滤波器"
-
-#: ../admin/views/templates/slider-main-options.php:3515
-msgid "By Compressing Output"
-msgstr "通过压缩输出"
-
-#: ../admin/views/templates/slider-main-options.php:3516
-msgid "By Echo Output"
-msgstr "由echo打印输出"
 
 #: ../admin/views/templates/slider-main-options.php:3545
 msgid "Import / Export / Replace"
@@ -6500,10 +5844,6 @@ msgid ""
 msgstr ""
 
 #: ../admin/views/templates/slider-main-options.php:3583
-msgid "Export Slider"
-msgstr "导出滑块"
-
-#: ../admin/views/templates/slider-main-options.php:3583
 msgid "Export with Dummy Images"
 msgstr ""
 
@@ -6531,10 +5871,6 @@ msgstr ""
 msgid "Replace URL's"
 msgstr ""
 
-#: ../admin/views/templates/slider-main-options.php:3601
-msgid "Replacing..."
-msgstr "替换中..."
-
 #: ../admin/views/templates/slider-main-options.php:3604
 msgid "Note! The replace process is not reversible !"
 msgstr ""
@@ -6559,10 +5895,6 @@ msgstr ""
 msgid "Call this function to play the slider if it is paused."
 msgstr ""
 
-#: ../admin/views/templates/slider-main-options.php:3633
-msgid "Resume Slider"
-msgstr "重命名滑块"
-
 #: ../admin/views/templates/slider-main-options.php:3637
 msgid "Switch slider to previous slide."
 msgstr ""
@@ -6575,10 +5907,6 @@ msgstr ""
 #: admin/views/templates/slider-main-options.php:3649
 msgid "Switch to the slide which is defined as parameter."
 msgstr ""
-
-#: ../admin/views/templates/slider-main-options.php:3645
-msgid "Go To Slide"
-msgstr "转到幻灯片"
 
 #: ../admin/views/templates/slider-main-options.php:3649
 msgid "Go To Slide with ID"
@@ -6777,21 +6105,9 @@ msgstr ""
 msgid "Export to HTML"
 msgstr ""
 
-#: ../admin/views/templates/sliders-list.php:188
-msgid "Create New Slider"
-msgstr "新建滑块"
-
 #: ../admin/views/templates/sliders-list.php:189
 msgid "Add Template Slider"
 msgstr ""
-
-#: ../admin/views/templates/slides-list.php:92
-msgid "Unpublish Slide"
-msgstr "取消发布幻灯片"
-
-#: ../admin/views/templates/slides-list.php:96
-msgid "Publish Slide"
-msgstr "发布幻灯片"
 
 #: ../admin/views/templates/slides-list.php:115
 msgid "Slide Image - Click to change"
@@ -6809,18 +6125,6 @@ msgstr ""
 msgid "Working..."
 msgstr ""
 
-#: ../admin/views/templates/slides.php:16 ../admin/views/templates/slides.php:36
-msgid "New Slide"
-msgstr "新建幻灯片"
-
-#: ../admin/views/templates/slides.php:18 ../admin/views/templates/slides.php:38
-msgid "New Transparent Slide"
-msgstr "新的透明幻灯片"
-
-#: ../admin/views/templates/slides.php:19 ../admin/views/templates/slides.php:39
-msgid "Adding Slide..."
-msgstr "正在添加滑块..."
-
 #: ../admin/views/templates/slides.php:36
 msgid "Select image or multiple images to add slide or slides"
 msgstr ""
@@ -6828,14 +6132,6 @@ msgstr ""
 #: ../admin/views/templates/slides.php:41
 msgid "Edit Static / Global Layers"
 msgstr ""
-
-#: ../admin/views/templates/slides.php:46
-msgid "To Slider Settings"
-msgstr "幻灯片设置"
-
-#: ../admin/views/templates/template-selector.php:17
-msgid "Slide"
-msgstr "幻灯片"
 
 #: ../admin/views/templates/template-selector.php:22 ..
 #: admin/views/templates/template-slider-selector.php:20
@@ -6866,10 +6162,6 @@ msgstr ""
 #: admin/views/templates/template-slider-selector.php:169
 msgid "Import Template Slider"
 msgstr ""
-
-#: ../admin/views/templates/wpml-selector.php:11
-msgid "Preview Slide"
-msgstr "预览滑块"
 
 #: ../admin/views/templates/wpml-selector.php:41
 msgid "Choose slide language"
@@ -6942,10 +6234,6 @@ msgstr ""
 #: ../includes/operations.class.php:1413
 msgid "To:"
 msgstr ""
-
-#: ../includes/operations.class.php:1413
-msgid "Replace"
-msgstr "替换"
 
 #: ../includes/operations.class.php:1416
 msgid "Header"
@@ -7162,18 +6450,6 @@ msgstr ""
 msgid "Failed to load Stream"
 msgstr ""
 
-#: ../includes/widget.class.php:15
-msgid "Displays a revolution slider on the page"
-msgstr "在此页面显示幻灯片"
-
-#: ../includes/widget.class.php:16
-msgid "Revolution Slider"
-msgstr "革命滑块"
-
-#: ../includes/widget.class.php:30
-msgid "No sliders found, Please create a slider"
-msgstr "没有找到幻灯片，请创建一个幻灯片"
-
 #: ../includes/widget.class.php:69
 msgid "Home Page Only"
 msgstr ""
@@ -7221,11 +6497,6 @@ msgstr ""
 #: ../includes/framework/base.class.php:226
 msgid "Small 320"
 msgstr ""
-
-#: ../includes/framework/base.class.php:227 ../includes/framework/base.class.php:
-#: 234 ../includes/framework/base.class.php:280
-msgid "Thumbnail"
-msgstr "缩略图"
 
 #: ../includes/framework/base.class.php:228
 msgid "Square"
@@ -7332,3 +6603,732 @@ msgstr ""
 #: ../includes/framework/wpml.class.php:46 ../includes/framework/wpml.class.php:162
 msgid "All Languages"
 msgstr ""
+
+#: ../admin/revslider-admin.class.php:198 ../admin/views/slide-overview.php:168 ..
+#: admin/views/system/dialog-copy-move.php:3 ../admin/views/templates/slider-
+#: main-options.php:1309 ../admin/views/templates/slider-main-options.php:4280 ..
+#: admin/views/templates/slides.php:21 ../admin/views/templates/slides.php:43
+msgid "Close"
+msgstr "关闭"
+
+#: ../admin/revslider-admin.class.php:242 ../admin/views/templates/slider-main-
+#: options.php:2588
+msgid "Thumbnails"
+msgstr "缩略图"
+
+#: ../admin/revslider-admin.class.php:726
+msgid "Slider updated"
+msgstr "幻灯片已更新"
+
+#: ../admin/revslider-admin.class.php:756
+msgid "Slide Created"
+msgstr "幻灯片已创建"
+
+#: ../admin/revslider-admin.class.php:787
+msgid "Slide updated"
+msgstr "幻灯片已更新"
+
+#: ../admin/views/navigation-editor.php:42 ../admin/views/navigation-editor.php:
+#: 67 ../admin/views/templates/slide-stage.php:34
+msgid "Actions"
+msgstr "操作"
+
+#: ../admin/views/navigation-editor.php:75 ../admin/views/templates/slide-general-
+#: settings.php:476
+msgid "Slide Title"
+msgstr "幻灯片的标题"
+
+#: ../admin/views/navigation-editor.php:125 ../admin/views/templates/slider-main-
+#: options.php:1965 ../admin/views/templates/slider-main-options.php:2397 ..
+#: admin/views/templates/slider-main-options.php:2427 ..
+#: admin/views/templates/slider-main-options.php:2540 ..
+#: admin/views/templates/slider-main-options.php:2710 ..
+#: admin/views/templates/slider-main-options.php:2878 ..
+#: admin/views/templates/slider-main-options.php:3213
+msgid "Top"
+msgstr "顶部"
+
+#: ../admin/views/navigation-editor.php:127 ../admin/views/templates/slide-stage.
+#: php:282 ../admin/views/templates/slider-main-options.php:2175 ..
+#: admin/views/templates/slider-main-options.php:2390 ..
+#: admin/views/templates/slider-main-options.php:2419 ..
+#: admin/views/templates/slider-main-options.php:2534 ..
+#: admin/views/templates/slider-main-options.php:2704 ..
+#: admin/views/templates/slider-main-options.php:2872 ..
+#: admin/views/templates/slider-main-options.php:3207
+msgid "Right"
+msgstr "右边"
+
+#: ../admin/views/navigation-editor.php:129 ../admin/views/templates/slider-main-
+#: options.php:1966 ../admin/views/templates/slider-main-options.php:2399 ..
+#: admin/views/templates/slider-main-options.php:2429 ..
+#: admin/views/templates/slider-main-options.php:2542 ..
+#: admin/views/templates/slider-main-options.php:2712 ..
+#: admin/views/templates/slider-main-options.php:2880 ..
+#: admin/views/templates/slider-main-options.php:3215
+msgid "Bottom"
+msgstr "下部"
+
+#: ../admin/views/navigation-editor.php:131 ../admin/views/templates/slide-stage.
+#: php:280 ../admin/views/templates/slider-main-options.php:2173 ..
+#: admin/views/templates/slider-main-options.php:2388 ..
+#: admin/views/templates/slider-main-options.php:2417 ..
+#: admin/views/templates/slider-main-options.php:2532 ..
+#: admin/views/templates/slider-main-options.php:2702 ..
+#: admin/views/templates/slider-main-options.php:2870 ..
+#: admin/views/templates/slider-main-options.php:3205
+msgid "Left"
+msgstr "左边"
+
+#: ../admin/views/slide-editor.php:316 ../admin/views/templates/slides-list.php:
+#: 107 ../admin/views/templates/wpml-selector.php:10
+msgid "Edit Slide"
+msgstr "编辑幻灯片"
+
+#: ../admin/views/slide-editor.php:321 ../admin/views/slider-overview.php:67 ..
+#: admin/views/templates/slider-main-options.php:26 ..
+#: admin/views/templates/slides.php:10
+msgid "Help"
+msgstr "帮助"
+
+#: ../admin/views/slide-editor.php:846
+msgid "updating"
+msgstr "更新中"
+
+#: ../admin/views/slide-editor.php:848 ../admin/views/slide-editor.php:883 ..
+#: admin/views/slide-overview.php:169
+msgid "Slider Settings"
+msgstr "滑块设置"
+
+#: ../admin/views/slide-editor.php:887 ../admin/views/templates/slider-main-
+#: options.php:1310 ../admin/views/templates/slider-main-options.php:4292 ..
+#: admin/views/templates/sliders-list.php:169
+msgid "Preview"
+msgstr "预览"
+
+#: ../admin/views/slide-overview.php:76 ../admin/views/templates/slides-list.php:6
+msgid "Saving Order"
+msgstr "保存列表中"
+
+#: ../admin/views/slide-overview.php:150 ../admin/views/templates/slide-selector.
+#: php:198 ../admin/views/templates/slide-stage.php:89 ..
+#: admin/views/templates/slide-stage.php:704 ../admin/views/templates/slide-
+#: stage.php:879 ../admin/views/templates/sliders-list.php:167 ..
+#: admin/views/templates/slides-list.php:134
+msgid "Delete"
+msgstr "删除"
+
+#: ../admin/views/slider-overview.php:69
+msgid "Global Settings"
+msgstr "全局设置"
+
+#: ../admin/views/slider-overview.php:76
+msgid "Revolution Sliders"
+msgstr "革命滑块"
+
+#: ../admin/views/slider-overview.php:93 ../admin/views/templates/sliders-list.
+#: php:33
+msgid "Posts"
+msgstr "文章"
+
+#: ../admin/views/slider-overview.php:94 ../admin/views/templates/slider-main-
+#: options.php:146 ../admin/views/templates/sliders-list.php:21
+msgid "Gallery"
+msgstr "图片墙"
+
+#: ../admin/views/slider-overview.php:111
+msgid "No Sliders Found"
+msgstr "没有找到幻灯片"
+
+#: ../admin/views/slider-overview.php:128
+msgid "theme html"
+msgstr "HTML主题"
+
+#: ../admin/views/slider-overview.php:128
+msgid "use"
+msgstr "使用"
+
+#: ../admin/views/slider-overview.php:132
+msgid "widgets panel"
+msgstr "小工具面板"
+
+#: ../admin/views/slider-overview.php:132
+msgid "drag the \"Revolution Slider\" widget to the desired sidebar"
+msgstr "拖动革命滑块到所需的侧边栏小部件"
+
+#: ../admin/views/slider-overview.php:254
+msgid "Choose the import file"
+msgstr "选择导入文件"
+
+#: ../admin/views/slider-overview.php:258 ../admin/views/templates/template-
+#: selector.php:242 ../admin/views/templates/template-slider-selector.php:171
+msgid "Note: custom styles will be updated if they exist!"
+msgstr "注：自定义样式如果存在将会被更新！"
+
+#: ../admin/views/slider-overview.php:261 ../admin/views/templates/template-
+#: selector.php:245 ../admin/views/templates/template-slider-selector.php:174
+msgid "Custom Animations:"
+msgstr "自定义动画："
+
+#: ../admin/views/slider-overview.php:262 ../admin/views/slider-overview.php:267 .
+#: ./admin/views/templates/slider-main-options.php:3564 ..
+#: admin/views/templates/slider-main-options.php:3569 ..
+#: admin/views/templates/template-selector.php:246 ..
+#: admin/views/templates/template-selector.php:251 ..
+#: admin/views/templates/template-slider-selector.php:175 ..
+#: admin/views/templates/template-slider-selector.php:180
+msgid "overwrite"
+msgstr "覆盖"
+
+#: ../admin/views/slider-overview.php:263 ../admin/views/slider-overview.php:268 .
+#: ./admin/views/templates/slider-main-options.php:3565 ..
+#: admin/views/templates/slider-main-options.php:3570 ..
+#: admin/views/templates/template-selector.php:247 ..
+#: admin/views/templates/template-selector.php:252 ..
+#: admin/views/templates/template-slider-selector.php:176 ..
+#: admin/views/templates/template-slider-selector.php:181
+msgid "append"
+msgstr "附加"
+
+#: ../admin/views/slider-overview.php:266 ../admin/views/templates/slide-stage.
+#: php:62 ../admin/views/templates/template-selector.php:250 ..
+#: admin/views/templates/template-slider-selector.php:179
+msgid "Static Styles:"
+msgstr "静态样式"
+
+#: ../admin/views/slider-overview.php:277 ../admin/views/templates/slide-selector.
+#: php:196 ../admin/views/templates/sliders-list.php:168 ..
+#: admin/views/templates/slides-list.php:136
+msgid "Duplicate"
+msgstr "复制/备份"
+
+#: ../admin/views/system/dialog-global-settings.php:25 ..
+#: admin/views/templates/slider-main-options.php:1582
+msgid "General Settings"
+msgstr "通用设置"
+
+#: ../admin/views/system/dialog-global-settings.php:58 ..
+#: admin/views/system/dialog-global-settings.php:92 ../admin/views/system/dialog-
+#: global-settings.php:113 ../admin/views/system/dialog-global-settings.php:134 ..
+#: admin/views/system/dialog-global-settings.php:187 ..
+#: admin/views/system/dialog-global-settings.php:209 ..
+#: admin/views/templates/slider-main-options.php:3506
+msgid "On"
+msgstr "打开"
+
+#: ../admin/views/system/dialog-global-settings.php:63 ..
+#: admin/views/system/dialog-global-settings.php:97 ../admin/views/system/dialog-
+#: global-settings.php:118 ../admin/views/system/dialog-global-settings.php:139 ..
+#: admin/views/system/dialog-global-settings.php:192 ..
+#: admin/views/system/dialog-global-settings.php:214 ..
+#: admin/views/templates/slider-main-options.php:2210 ..
+#: admin/views/templates/slider-main-options.php:3487 ..
+#: admin/views/templates/slider-main-options.php:3508
+msgid "Off"
+msgstr "关闭"
+
+#: ../admin/views/system/dialog-video.php:14
+msgid "Settings"
+msgstr "设置"
+
+#: ../admin/views/system/dialog-video.php:26
+msgid "Choose video type"
+msgstr "选择视频类型"
+
+#: ../admin/views/system/dialog-video.php:63 ../admin/views/system/dialog-video.
+#: php:74 ../admin/views/system/dialog-video.php:82 ../admin/views/system/dialog-
+#: video.php:89 ../admin/views/system/dialog-video.php:96
+msgid "example"
+msgstr "例如"
+
+#: ../admin/views/system/dialog-video.php:145 ../admin/views/system/dialog-video.
+#: php:217 ../admin/views/templates/slide-general-settings.php:267 ..
+#: admin/views/templates/slide-general-settings.php:900
+msgid "Disable"
+msgstr "禁用"
+
+#: ../admin/views/templates/slide-general-settings.php:89
+msgid "Change Image"
+msgstr "选择图片"
+
+#: ../admin/views/templates/slide-general-settings.php:97
+msgid "External URL"
+msgstr "外部URL"
+
+#: ../admin/views/templates/slide-general-settings.php:103
+msgid "Get External"
+msgstr "外部链接地址"
+
+#: ../admin/views/templates/slide-general-settings.php:109
+msgid "Transparent"
+msgstr "透明"
+
+#: ../admin/views/templates/slide-general-settings.php:114
+msgid "Solid Colored"
+msgstr "纯色"
+
+#: ../admin/views/templates/slide-general-settings.php:209 ..
+#: admin/views/templates/slide-stage.php:1261 ../admin/views/templates/slide-
+#: stage.php:1729
+msgid "Custom"
+msgstr "自定义"
+
+#: ../admin/views/templates/slide-general-settings.php:311
+msgid "Background Fit:"
+msgstr "背景适合："
+
+#: ../admin/views/templates/slide-general-settings.php:322
+msgid "Background Position:"
+msgstr "背景位置："
+
+#: ../admin/views/templates/slide-general-settings.php:343
+msgid "Background Repeat:"
+msgstr "背景重复："
+
+#: ../admin/views/templates/slide-general-settings.php:478
+msgid "The title of the slide, will be shown in the slides list."
+msgstr "幻灯片的标题，将显示在幻灯片列表中。"
+
+#: ../admin/views/templates/slide-general-settings.php:494
+msgid "Published"
+msgstr "已发布"
+
+#: ../admin/views/templates/slide-general-settings.php:495
+msgid "Unpublished"
+msgstr "未发布"
+
+#: ../admin/views/templates/slide-general-settings.php:497
+msgid ""
+"The state of the slide. The unpublished slide will be excluded from the "
+"slider."
+msgstr "幻灯片的状态。未发表的幻灯片将不会使用"
+
+#: ../admin/views/templates/slide-general-settings.php:565
+msgid "Slide Thumbnail. If not set - it will be taken from the slide image."
+msgstr "滑块缩略图。如果没有设置，将会选取幻灯片里的图片"
+
+#: ../admin/views/templates/slide-general-settings.php:899
+msgid "Enable"
+msgstr "启用"
+
+#: ../admin/views/templates/slide-general-settings.php:911
+msgid "Regular"
+msgstr "正常"
+
+#: ../admin/views/templates/slide-general-settings.php:912
+msgid "To Slide"
+msgstr "链接到另一个幻灯片"
+
+#: ../admin/views/templates/slide-general-settings.php:931 ..
+#: admin/views/templates/slide-stage.php:2273
+msgid "Same Window"
+msgstr "同一窗口"
+
+#: ../admin/views/templates/slide-general-settings.php:932 ..
+#: admin/views/templates/slide-stage.php:2274
+msgid "New Window"
+msgstr "新窗口"
+
+#: ../admin/views/templates/slide-general-settings.php:942
+msgid "-- Not Chosen --"
+msgstr "-- 未选择 --"
+
+#: ../admin/views/templates/slide-general-settings.php:943
+msgid "-- Next Slide --"
+msgstr "-- 下一张滑块 --"
+
+#: ../admin/views/templates/slide-general-settings.php:944
+msgid "-- Previous Slide --"
+msgstr "-- 上一张幻灯片 --"
+
+#: ../admin/views/templates/slide-stage.php:12
+msgid "Style"
+msgstr "样式"
+
+#: ../admin/views/templates/slide-stage.php:19 ../admin/views/templates/slide-
+#: stage.php:1766
+msgid "Animation"
+msgstr "动画"
+
+#: ../admin/views/templates/slide-stage.php:246 ../admin/views/templates/slide-
+#: stage.php:514 ../admin/views/templates/slide-stage.php:752 ..
+#: admin/views/templates/slide-stage.php:928 ../admin/views/templates/slider-
+#: main-options.php:3161
+msgid "Rotation"
+msgstr "旋转"
+
+#: ../admin/views/templates/slide-stage.php:281 ../admin/views/templates/slider-
+#: main-options.php:2174 ../admin/views/templates/slider-main-options.php:2389 ..
+#: admin/views/templates/slider-main-options.php:2398 ..
+#: admin/views/templates/slider-main-options.php:2418 ..
+#: admin/views/templates/slider-main-options.php:2428 ..
+#: admin/views/templates/slider-main-options.php:2533 ..
+#: admin/views/templates/slider-main-options.php:2541 ..
+#: admin/views/templates/slider-main-options.php:2703 ..
+#: admin/views/templates/slider-main-options.php:2711 ..
+#: admin/views/templates/slider-main-options.php:2871 ..
+#: admin/views/templates/slider-main-options.php:2879 ..
+#: admin/views/templates/slider-main-options.php:3206 ..
+#: admin/views/templates/slider-main-options.php:3214
+msgid "Center"
+msgstr "居中"
+
+#: ../admin/views/templates/slide-stage.php:1152
+msgid "Source Type"
+msgstr "源类型"
+
+#: ../admin/views/templates/slide-stage.php:1227
+msgid "ID"
+msgstr "ID"
+
+#: ../admin/views/templates/slide-stage.php:1351
+msgid "Auto Responsive"
+msgstr "自动适应"
+
+#: ../admin/views/templates/slide-stage.php:1624
+msgid "Delete All Layers"
+msgstr "删除所有幻灯片"
+
+#: ../admin/views/templates/slide-stage.php:1734 ../admin/views/templates/slider-
+#: main-options.php:3420 ../admin/views/templates/slider-main-options.php:3514
+msgid "None"
+msgstr "空"
+
+#: ../admin/views/templates/slide-stage.php:2247 ../admin/views/templates/slider-
+#: main-options.php:3641
+msgid "Next Slide"
+msgstr "下一张幻灯片"
+
+#: ../admin/views/templates/slide-stage.php:2248 ../admin/views/templates/slider-
+#: main-options.php:3637
+msgid "Previous Slide"
+msgstr "上一张幻灯片"
+
+#: ../admin/views/templates/slide-stage.php:2249 ../admin/views/templates/slider-
+#: main-options.php:3629
+msgid "Pause Slider"
+msgstr "暂停滑块"
+
+#: ../admin/views/templates/slide-stage.php:2277
+msgid "Link Type"
+msgstr "链接类型"
+
+#: ../admin/views/templates/slide-stage.php:2313
+msgid "Delay"
+msgstr "延迟时间"
+
+#: ../admin/views/templates/slide-stage.php:2315 ../admin/views/templates/slider-
+#: main-options.php:1620 ../admin/views/templates/slider-main-options.php:1626 ..
+#: admin/views/templates/slider-main-options.php:1645 ..
+#: admin/views/templates/slider-main-options.php:1889 ..
+#: admin/views/templates/slider-main-options.php:1895 ..
+#: admin/views/templates/slider-main-options.php:2353 ..
+#: admin/views/templates/slider-main-options.php:2358 ..
+#: admin/views/templates/slider-main-options.php:2498 ..
+#: admin/views/templates/slider-main-options.php:2503 ..
+#: admin/views/templates/slider-main-options.php:2655 ..
+#: admin/views/templates/slider-main-options.php:2660 ..
+#: admin/views/templates/slider-main-options.php:2824 ..
+#: admin/views/templates/slider-main-options.php:2828 ..
+#: admin/views/templates/slider-main-options.php:3318
+msgid "ms"
+msgstr "毫秒(ms)"
+
+#: ../admin/views/templates/slider-main-options.php:25
+msgid "Edit Slider"
+msgstr "编辑滑块"
+
+#: ../admin/views/templates/slider-main-options.php:25 ..
+#: admin/views/templates/sliders-list.php:184
+msgid "New Slider"
+msgstr "新建滑块"
+
+#: ../admin/views/templates/slider-main-options.php:53
+msgid "Specific Posts"
+msgstr "特定文章"
+
+#: ../admin/views/templates/slider-main-options.php:1289 ..
+#: admin/views/templates/slider-main-options.php:4286 ..
+#: admin/views/templates/slides.php:8
+msgid "Edit Slides"
+msgstr "编辑幻灯片"
+
+#: ../admin/views/templates/slider-main-options.php:1305 ..
+#: admin/views/templates/slider-main-options.php:4272
+msgid "Save Settings"
+msgstr "保存设置"
+
+#: ../admin/views/templates/slider-main-options.php:1306 ..
+#: admin/views/templates/slider-main-options.php:4273
+msgid "updating..."
+msgstr "更新中..."
+
+#: ../admin/views/templates/slider-main-options.php:1308 ..
+#: admin/views/templates/slider-main-options.php:4277
+msgid "Delete Slider"
+msgstr "删除滑块"
+
+#: ../admin/views/templates/slider-main-options.php:1310
+msgid "Preview Slider"
+msgstr "预览滑块"
+
+#: ../admin/views/templates/slider-main-options.php:1629
+msgid "Transitions"
+msgstr "过渡"
+
+#: ../admin/views/templates/slider-main-options.php:1868
+msgid "First Transition Active"
+msgstr "当前的第一个过度"
+
+#: ../admin/views/templates/slider-main-options.php:1873
+msgid "First slide transition type"
+msgstr "第一张幻灯片过渡类型"
+
+#: ../admin/views/templates/slider-main-options.php:1887
+msgid "Transition Duration"
+msgstr "过渡时间"
+
+#: ../admin/views/templates/slider-main-options.php:1973 ..
+#: admin/views/templates/slider-main-options.php:1979 ..
+#: admin/views/templates/slider-main-options.php:2074 ..
+#: admin/views/templates/slider-main-options.php:2080 ..
+#: admin/views/templates/slider-main-options.php:2085 ..
+#: admin/views/templates/slider-main-options.php:2182 ..
+#: admin/views/templates/slider-main-options.php:2188 ..
+#: admin/views/templates/slider-main-options.php:2194 ..
+#: admin/views/templates/slider-main-options.php:2199 ..
+#: admin/views/templates/slider-main-options.php:2369 ..
+#: admin/views/templates/slider-main-options.php:2380 ..
+#: admin/views/templates/slider-main-options.php:2405 ..
+#: admin/views/templates/slider-main-options.php:2411 ..
+#: admin/views/templates/slider-main-options.php:2437 ..
+#: admin/views/templates/slider-main-options.php:2443 ..
+#: admin/views/templates/slider-main-options.php:2475 ..
+#: admin/views/templates/slider-main-options.php:2514 ..
+#: admin/views/templates/slider-main-options.php:2525 ..
+#: admin/views/templates/slider-main-options.php:2548 ..
+#: admin/views/templates/slider-main-options.php:2554 ..
+#: admin/views/templates/slider-main-options.php:2614 ..
+#: admin/views/templates/slider-main-options.php:2628 ..
+#: admin/views/templates/slider-main-options.php:2633 ..
+#: admin/views/templates/slider-main-options.php:2638 ..
+#: admin/views/templates/slider-main-options.php:2671 ..
+#: admin/views/templates/slider-main-options.php:2682 ..
+#: admin/views/templates/slider-main-options.php:2718 ..
+#: admin/views/templates/slider-main-options.php:2724 ..
+#: admin/views/templates/slider-main-options.php:2785 ..
+#: admin/views/templates/slider-main-options.php:2799 ..
+#: admin/views/templates/slider-main-options.php:2804 ..
+#: admin/views/templates/slider-main-options.php:2809 ..
+#: admin/views/templates/slider-main-options.php:2839 ..
+#: admin/views/templates/slider-main-options.php:2850 ..
+#: admin/views/templates/slider-main-options.php:2886 ..
+#: admin/views/templates/slider-main-options.php:2892 ..
+#: admin/views/templates/slider-main-options.php:3101 ..
+#: admin/views/templates/slider-main-options.php:3110 ..
+#: admin/views/templates/slider-main-options.php:3117 ..
+#: admin/views/templates/slider-main-options.php:3120
+msgid "px"
+msgstr "像素(px)"
+
+#: ../admin/views/templates/slider-main-options.php:2052
+msgid "Appearance"
+msgstr "外观"
+
+#: ../admin/views/templates/slider-main-options.php:2056 ..
+#: admin/views/templates/slider-main-options.php:2529 ..
+#: admin/views/templates/slider-main-options.php:2686 ..
+#: admin/views/templates/slider-main-options.php:2854
+msgid "Position"
+msgstr "位置"
+
+#: ../admin/views/templates/slider-main-options.php:2093
+msgid "Shadow Type"
+msgstr "阴影类型"
+
+#: ../admin/views/templates/slider-main-options.php:2095
+msgid "No Shadow"
+msgstr "无阴影"
+
+#: ../admin/views/templates/slider-main-options.php:2116
+msgid "Background color"
+msgstr "背景颜色"
+
+#: ../admin/views/templates/slider-main-options.php:2124
+msgid "Show Background Image"
+msgstr "显示背景图片"
+
+#: ../admin/views/templates/slider-main-options.php:2129
+msgid "Background Image Url"
+msgstr "背景图片的URL地址"
+
+#: ../admin/views/templates/slider-main-options.php:2171
+msgid "Position on the page"
+msgstr "页面上的位置"
+
+#: ../admin/views/templates/slider-main-options.php:2180
+msgid "The top margin of the slider wrapper div"
+msgstr "幻灯片距上部div的上边距"
+
+#: ../admin/views/templates/slider-main-options.php:2180
+msgid "Margin Top"
+msgstr "上边距(Margin Top)"
+
+#: ../admin/views/templates/slider-main-options.php:2186
+msgid "The bottom margin of the slider wrapper div"
+msgstr "幻灯片距下部div的下边距"
+
+#: ../admin/views/templates/slider-main-options.php:2186
+msgid "Margin Bottom"
+msgstr "下边距(Margin Bottom)"
+
+#: ../admin/views/templates/slider-main-options.php:2192
+msgid "The left margin of the slider wrapper div"
+msgstr "滑块距左部div的左边距"
+
+#: ../admin/views/templates/slider-main-options.php:2192
+msgid "Margin Left"
+msgstr "左边距"
+
+#: ../admin/views/templates/slider-main-options.php:2197
+msgid "The right margin of the slider wrapper div"
+msgstr "幻灯片距右部div的右边距"
+
+#: ../admin/views/templates/slider-main-options.php:2197
+msgid "Margin Right"
+msgstr "有边距"
+
+#: ../admin/views/templates/slider-main-options.php:2305
+msgid "Navigation"
+msgstr "导航"
+
+#: ../admin/views/templates/slider-main-options.php:2345 ..
+#: admin/views/templates/slider-main-options.php:2491 ..
+#: admin/views/templates/slider-main-options.php:2647 ..
+#: admin/views/templates/slider-main-options.php:2816
+msgid "Yes"
+msgstr "是"
+
+#: ../admin/views/templates/slider-main-options.php:2346 ..
+#: admin/views/templates/slider-main-options.php:2492 ..
+#: admin/views/templates/slider-main-options.php:2648 ..
+#: admin/views/templates/slider-main-options.php:2817
+msgid "No"
+msgstr "否"
+
+#: ../admin/views/templates/slider-main-options.php:2626
+msgid "Thumb Width"
+msgstr "缩略图宽度"
+
+#: ../admin/views/templates/slider-main-options.php:2631
+msgid "Thumb Height"
+msgstr "缩略图高度"
+
+#: ../admin/views/templates/slider-main-options.php:2901
+msgid "Enable Swipe Function on touch devices"
+msgstr "启用具有滑动功能的触摸设备"
+
+#: ../admin/views/templates/slider-main-options.php:2901
+msgid "Touch Enabled"
+msgstr "启用点触设备"
+
+#: ../admin/views/templates/slider-main-options.php:3406
+msgid "Lazy Load"
+msgstr "延迟加载"
+
+#: ../admin/views/templates/slider-main-options.php:3478
+msgid "Troubleshooting"
+msgstr "故障排除"
+
+#: ../admin/views/templates/slider-main-options.php:3499
+msgid "JQuery No Conflict Mode"
+msgstr "JQuery的无冲突模式"
+
+#: ../admin/views/templates/slider-main-options.php:3503
+msgid "Put JS Includes To Body"
+msgstr "把JS包含在body块"
+
+#: ../admin/views/templates/slider-main-options.php:3512
+msgid "Output Filters Protection"
+msgstr "保护输出滤波器"
+
+#: ../admin/views/templates/slider-main-options.php:3515
+msgid "By Compressing Output"
+msgstr "通过压缩输出"
+
+#: ../admin/views/templates/slider-main-options.php:3516
+msgid "By Echo Output"
+msgstr "由echo打印输出"
+
+#: ../admin/views/templates/slider-main-options.php:3583
+msgid "Export Slider"
+msgstr "导出滑块"
+
+#: ../admin/views/templates/slider-main-options.php:3601
+msgid "Replacing..."
+msgstr "替换中..."
+
+#: ../admin/views/templates/slider-main-options.php:3633
+msgid "Resume Slider"
+msgstr "重命名滑块"
+
+#: ../admin/views/templates/slider-main-options.php:3645
+msgid "Go To Slide"
+msgstr "转到幻灯片"
+
+#: ../admin/views/templates/sliders-list.php:188
+msgid "Create New Slider"
+msgstr "新建滑块"
+
+#: ../admin/views/templates/slides-list.php:92
+msgid "Unpublish Slide"
+msgstr "取消发布幻灯片"
+
+#: ../admin/views/templates/slides-list.php:96
+msgid "Publish Slide"
+msgstr "发布幻灯片"
+
+#: ../admin/views/templates/slides.php:16 ../admin/views/templates/slides.php:36
+msgid "New Slide"
+msgstr "新建幻灯片"
+
+#: ../admin/views/templates/slides.php:18 ../admin/views/templates/slides.php:38
+msgid "New Transparent Slide"
+msgstr "新的透明幻灯片"
+
+#: ../admin/views/templates/slides.php:19 ../admin/views/templates/slides.php:39
+msgid "Adding Slide..."
+msgstr "正在添加滑块..."
+
+#: ../admin/views/templates/slides.php:46
+msgid "To Slider Settings"
+msgstr "幻灯片设置"
+
+#: ../admin/views/templates/template-selector.php:17
+msgid "Slide"
+msgstr "幻灯片"
+
+#: ../admin/views/templates/wpml-selector.php:11
+msgid "Preview Slide"
+msgstr "预览滑块"
+
+#: ../includes/operations.class.php:1413
+msgid "Replace"
+msgstr "替换"
+
+#: ../includes/widget.class.php:15
+msgid "Displays a revolution slider on the page"
+msgstr "在此页面显示幻灯片"
+
+#: ../includes/widget.class.php:16
+msgid "Revolution Slider"
+msgstr "革命滑块"
+
+#: ../includes/widget.class.php:30
+msgid "No sliders found, Please create a slider"
+msgstr "没有找到幻灯片，请创建一个幻灯片"
+
+#: ../includes/framework/base.class.php:227 ../includes/framework/base.class.php:
+#: 234 ../includes/framework/base.class.php:280
+msgid "Thumbnail"
+msgstr "缩略图"
