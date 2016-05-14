@@ -52,7 +52,7 @@ jQuery(document).ready(function($){
 	});
 
 	$('#header:not(.fixed_header) #navigation ul.menu').mobileMenu({
-		defaultText: 'Navigation',
+		defaultText: '-- 导航菜单  --',
 		className: 'select-menu',
 		subMenuDash: '&ndash;'
 	});
