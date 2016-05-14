@@ -638,6 +638,7 @@ a.more:hover {
     display: none;
     color: inherit;
     position: relative;
+    text-align:center;
 }
 #navigation .select-menu:before {
     content: "\f039";
