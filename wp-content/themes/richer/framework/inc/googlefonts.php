@@ -43,7 +43,7 @@ if (!function_exists('mytheme_fonts')){
 
 		if($customfont != ''){
 			$protocol = is_ssl() ? 'https' : 'http';
-		    wp_enqueue_style( 'mytheme-googlefonts', $protocol."://fonts.useso.com/css?family=". substr_replace($customfont ,"",-1) . "&amp;subset=latin&#44;latin-ext&#44;cyrillic&#44;cyrillic-ext&#44;greek-ext&#44;greek&#44;vietnamese", array(), NULL, 'all' );
+		   // wp_enqueue_style( 'mytheme-googlefonts', $protocol."://fonts.useso.com/css?family=". substr_replace($customfont ,"",-1) . "&amp;subset=latin&#44;latin-ext&#44;cyrillic&#44;cyrillic-ext&#44;greek-ext&#44;greek&#44;vietnamese", array(), NULL, 'all' );
 		}
 		}
 }

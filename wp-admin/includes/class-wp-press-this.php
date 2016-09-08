@@ -812,7 +812,7 @@ class WP_Press_This {
 			$open_sans_font_url = ',' . add_query_arg( $query_args, 'http://fonts.useso.com/css' );
 		}
 
-		return $styles . $press_this . $open_sans_font_url;
+		return $styles . $press_this ;//. $open_sans_font_url;
 	}
 
 	/**

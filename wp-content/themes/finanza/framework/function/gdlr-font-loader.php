@@ -127,7 +127,7 @@
 					$temp_font_name .= apply_filters('gdlr_google_font_weight', implode(',', $google_font['variants'])) . '&subset='; 
 					$temp_font_name .= apply_filters('gdlr_google_font_subset', implode(',', $google_font['subsets'])); 
 					
-					return GDLR_HTTP . 'fonts.useso.com/css?family=' . $temp_font_name;
+					return "";// GDLR_HTTP . 'fonts.useso.com/css?family=' . $temp_font_name;
 				} 
 				return '';
 			}

@@ -479,8 +479,8 @@ if(!function_exists('richer_googlefont')){
         
         $google = preg_replace("/ /","+",$font);
         
-        return '<link href="http://fonts.useso.com/css?family='.$google.'" rel="stylesheet" type="text/css">
-              <div class="googlefont" style="font-family:\'' .$font. '\', serif !important; font-size:' .$size. ' !important; margin: ' .$margin. ' !important;">' . do_shortcode($content) . '</div>';
+        return "";//'<link href="http://fonts.useso.com/css?family='.$google.'" rel="stylesheet" type="text/css">
+              //<div class="googlefont" style="font-family:\'' .$font. '\', serif !important; font-size:' .$size. ' !important; margin: ' .$margin. ' !important;">' . do_shortcode($content) . '</div>';
   }
 }
 /*-----------------------------------------------------------------------------------*/
