@@ -631,10 +631,10 @@ jQuery(document).ready(function($){
 				var the_font = _selected.replace(/\s+/g, '+');
 				
 				//add reference to google font family
-				$('head').append('<link href="http://fonts.useso.com/css?family='+ the_font +'" rel="stylesheet" type="text/css" class="'+ _linkclass +'">');
+				//$('head').append('<link href="http://fonts.useso.com/css?family='+ the_font +'" rel="stylesheet" type="text/css" class="'+ _linkclass +'">');
 				
 				//show in the preview box the font
-				$('.'+ _previewer ).css('font-family', _selected +', sans-serif' );
+				$('.'+ _previewer ).css('font-family', '"Microsoft Yahei"' +', sans-serif' );
 				
 			}else{
 				

@@ -1455,7 +1455,7 @@ class RevSliderOperations extends RevSliderElementsBase{
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 
 		<!-- LOAD JQUERY LIBRARY -->
-		<script type="text/javascript" src="http://ajax.useso.com/ajax/libs/jquery/1.11.1/jquery.js"></script>
+		<script type="text/javascript" src="http://lib.sinaapp.com/js/jquery/1.9.1/jquery-1.9.1.min.js"></script>
 		
 		<!-- LOADING FONTS AND ICONS -->
 		<?php echo $fonts; ?>
