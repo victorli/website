@@ -52,7 +52,7 @@ $font_name = (isset($options_data['custom_font_name']) && $options_data['custom_
 }
 <?php endif; ?>
 	body{ 
-		font-family: <?php echo $options_data['font_body']['face']; ?>, Arial, Helvetica, sans-serif; font-size: <?php echo $options_data['font_body']['size']; ?>; line-height: <?php echo $options_data['font_body']['height']; ?>; font-weight: <?php echo $options_data['font_body']['style']; ?>; color: <?php echo $options_data['font_body']['color']; ?>; text-transform: <?php echo $options_data['font_body']['transform']; ?>;
+		font-family: ''Microsoft Yahei, Arial, Helvetica, sans-serif; font-size: <?php echo $options_data['font_body']['size']; ?>; line-height: <?php echo $options_data['font_body']['height']; ?>; font-weight: <?php echo $options_data['font_body']['style']; ?>; color: <?php echo $options_data['font_body']['color']; ?>; text-transform: <?php echo $options_data['font_body']['transform']; ?>;
 		<?php 
 			if($options_data['check_responsive'] == true) {
 				echo "";
