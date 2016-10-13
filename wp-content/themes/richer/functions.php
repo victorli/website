@@ -232,11 +232,12 @@ if ( is_readable($locale_file) )
 	// The excerpt based on words
 	function my_string_limit_words($string, $word_limit)
 	{
-	  $string = strip_tags($string, '<p>');
+		return mb_substr($string, 0, $word_limit, 'utf8');
+	  /*$string = strip_tags($string, '<p>');
 	  $words = explode(' ', $string, ($word_limit + 1));
 	  if(count($words) > $word_limit)
 	  	array_pop($words);
-	  return implode(' ', $words);
+	  return implode(' ', $words);*/
 	}
 
 	function my_custom_excerpt($text) {
