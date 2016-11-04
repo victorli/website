@@ -3065,7 +3065,8 @@ function wp_ajax_destroy_sessions() {
 function wp_ajax_update_plugin() {
 	global $wp_filesystem;
 
-	$plugin = urldecode( $_POST['plugin'] );
+	//$plugin = urldecode( $_POST['plugin'] );
+	$plugin = plugin_basename(sanitize_text_field(wp_unslash($_POST['plugin'])));
 
 	$status = array(
 		'update'     => 'plugin',
